@@ -1,0 +1,199 @@
+{
+  "rows": [
+    {
+      "file": "screenshots/webgl2/low/pond.png",
+      "shot": "pond",
+      "tier": "low",
+      "stamp": "2026-11-19T00:44:24.659Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 2452,
+      "triangles": 5161157,
+      "geo": 736,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/carousel.png",
+      "shot": "carousel",
+      "tier": "low",
+      "stamp": "2026-11-19T00:44:33.833Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1890,
+      "triangles": 2930083,
+      "geo": 826,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/pond.png",
+      "shot": "pond",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:44:45.619Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2481,
+      "triangles": 6109219,
+      "geo": 827,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/carousel.png",
+      "shot": "carousel",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:45:01.529Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1955,
+      "triangles": 5185069,
+      "geo": 833,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/pond.png",
+      "shot": "pond",
+      "tier": "high",
+      "stamp": "2026-11-19T00:45:17.844Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 2490,
+      "triangles": 6304639,
+      "geo": 833,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/carousel.png",
+      "shot": "carousel",
+      "tier": "high",
+      "stamp": "2026-11-19T00:45:38.763Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1969,
+      "triangles": 5772635,
+      "geo": 834,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/pond.png",
+      "shot": "pond",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:45:55.796Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 2493,
+      "triangles": 6368719,
+      "geo": 834,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/carousel.png",
+      "shot": "carousel",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:46:23.918Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 2014,
+      "triangles": 8434919,
+      "geo": 842,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "public/previews/carousel.webp",
+      "shot": "carousel",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:46:42.055Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1966,
+      "triangles": 5600691,
+      "geo": 842,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/pond.webp",
+      "shot": "pond",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:46:54.056Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2481,
+      "triangles": 6109219,
+      "geo": 842,
+      "textures": 99,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x2e2c0036d400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x2e2c0036d400]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "stamp": "2026-11-19T02:28:02.445Z",
+  "results": [
+    {
+      "id": "dawn-sw",
+      "args": [
+        "--enable-unsafe-webgpu",
+        "--ignore-gpu-blocklist",
+        "--use-angle=swiftshader",
+        "--enable-unsafe-swiftshader",
+        "--use-webgpu-adapter=swiftshader"
+      ],
+      "errors": [],
+      "warnings": [
+        "The texture format (TextureFormat::RGBA16Float) does not support multisampling.\n - While validating [TextureDescriptor].\n - While calling [Device].CreateTexture([TextureDescriptor]).\n"
+      ],
+      "failure": "Error: page.evaluate: OperationError: A valid external Instance reference no longer exists.",
+      "ok": false
+    },
+    {
+      "id": "vulkan-sw",
+      "args": [
+        "--enable-unsafe-webgpu",
+        "--ignore-gpu-blocklist",
+        "--enable-features=Vulkan",
+        "--use-angle=vulkan",
+        "--disable-vulkan-surface"
+      ],
+      "errors": [],
+      "warnings": [
+        "The texture format (TextureFormat::RGBA16Float) does not support multisampling.\n - While validating [TextureDescriptor].\n - While calling [Device].CreateTexture([TextureDescriptor]).\n",
+        "[Invalid Texture] is invalid due to a previous error.\n - While calling [Invalid Texture].CreateView([TextureViewDescriptor]).\n",
+        "[Invalid TextureView] is invalid due to a previous error.\n - While validating colorAttachments[0].\n - While encoding [CommandEncoder (unlabeled)].BeginRenderPass([RenderPassDescriptor]).\n - While finishing [CommandEncoder (unlabeled)].\n",
+        "[Invalid CommandBuffer] is invalid due to a previous error.\n - While calling [Queue].Submit([[Invalid CommandBuffer]])\n",
+        "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+      ],
+      "gpu": {
+        "info": {
+          "vendor": "google",
+          "architecture": "swiftshader",
+          "fallback": true
+        },
+        "format": "rgba8unorm"
+      },
+      "pixels": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "ok": false
+    },
+    {
+      "id": "hybrid-sw",
+      "args": [
+        "--enable-unsafe-webgpu",
+        "--ignore-gpu-blocklist",
+        "--enable-features=Vulkan",
+        "--use-angle=swiftshader",
+        "--enable-unsafe-swiftshader"
+      ],
+      "errors": [],
+      "warnings": [
+        "The texture format (TextureFormat::RGBA16Float) does not support multisampling.\n - While validating [TextureDescriptor].\n - While calling [Device].CreateTexture([TextureDescriptor]).\n",
+        "[Invalid Texture] is invalid due to a previous error.\n - While calling [Invalid Texture].CreateView([TextureViewDescriptor]).\n",
+        "[Invalid TextureView] is invalid due to a previous error.\n - While validating colorAttachments[0].\n - While encoding [CommandEncoder (unlabeled)].BeginRenderPass([RenderPassDescriptor]).\n - While finishing [CommandEncoder (unlabeled)].\n",
+        "[Invalid CommandBuffer] is invalid due to a previous error.\n - While calling [Queue].Submit([[Invalid CommandBuffer]])\n",
+        "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+      ],
+      "gpu": {
+        "info": {
+          "vendor": "google",
+          "architecture": "swiftshader",
+          "fallback": true
+        },
+        "format": "rgba8unorm"
+      },
+      "pixels": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "ok": false
+    },
+    {
+      "id": "vulkan-surface",
+      "args": [
+        "--enable-unsafe-webgpu",
+        "--ignore-gpu-blocklist",
+        "--enable-features=Vulkan",
+        "--use-angle=vulkan"
+      ],
+      "errors": [],
+      "warnings": [
+        "The texture format (TextureFormat::RGBA16Float) does not support multisampling.\n - While validating [TextureDescriptor].\n - While calling [Device].CreateTexture([TextureDescriptor]).\n",
+        "[Invalid Texture] is invalid due to a previous error.\n - While calling [Invalid Texture].CreateView([TextureViewDescriptor]).\n",
+        "[Invalid TextureView] is invalid due to a previous error.\n - While validating colorAttachments[0].\n - While encoding [CommandEncoder (unlabeled)].BeginRenderPass([RenderPassDescriptor]).\n - While finishing [CommandEncoder (unlabeled)].\n",
+        "[Invalid CommandBuffer] is invalid due to a previous error.\n - While calling [Queue].Submit([[Invalid CommandBuffer]])\n",
+        "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently"
+      ],
+      "gpu": {
+        "info": {
+          "vendor": "google",
+          "architecture": "swiftshader",
+          "fallback": true
+        },
+        "format": "rgba8unorm"
+      },
+      "pixels": [
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "ok": false
+    },
+    {
+      "id": "default-sw",
+      "args": [
+        "--enable-unsafe-webgpu",
+        "--ignore-gpu-blocklist",
+        "--use-angle=swiftshader",
+        "--enable-unsafe-swiftshader"
+      ],
+      "errors": [],
+      "warnings": [
+        "The texture format (TextureFormat::RGBA16Float) does not support multisampling.\n - While validating [TextureDescriptor].\n - While calling [Device].CreateTexture([TextureDescriptor]).\n"
+      ],
+      "failure": "Error: page.evaluate: OperationError: A valid external Instance reference no longer exists.",
+      "ok": false
+    }
+  ]
+}

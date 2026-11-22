@@ -1,0 +1,53 @@
+{
+  "backend": "WebGL 2",
+  "checks": {
+    "placed": {
+      "stars": 24,
+      "elfDoors": 12,
+      "storyPlaques": 12,
+      "secrets": 8,
+      "notes": 63,
+      "uniqueNotes": 40,
+      "uniquePlaques": 30
+    },
+    "stars": {
+      "count": 24,
+      "activated": 23
+    },
+    "doors": {
+      "count": 12,
+      "activated": 12
+    },
+    "stories": {
+      "count": 12,
+      "activated": 12
+    },
+    "secrets": {
+      "count": 8,
+      "activated": 8
+    },
+    "notes": {
+      "count": 40,
+      "activated": 40
+    },
+    "plaques": {
+      "count": 30,
+      "activated": 30
+    }
+  },
+  "result": {
+    "stars": 23,
+    "eve": false,
+    "savedStars": 23,
+    "savedRecords": 125
+  },
+  "misses": [
+    {
+      "name": "stars",
+      "id": "star-23",
+      "why": "no aim from clear position"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

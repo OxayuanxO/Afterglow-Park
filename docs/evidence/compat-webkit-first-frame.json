@@ -1,0 +1,32 @@
+{
+  "engine": "webkit",
+  "stamp": "2026-11-19T07:08:02.678Z",
+  "url": "http://127.0.0.1:5173/?backend=webgl&quality=low&qa=1&still=1&skip=1",
+  "viewport": [
+    384,
+    240
+  ],
+  "mode": "one startup frame; no preliminary WebGL context and no background render loop",
+  "phases": [
+    "PARK_BOOT_PHASE 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 鋪上第一層雪23%",
+    "PARK_BOOT_PHASE WebGL 2 · 讓雲杉圍住這座公園42%",
+    "PARK_BOOT_PHASE WebGL 2 · 點起長廊與窗邊的燈72%",
+    "PARK_BOOT_PHASE WebGL 2 · 沿著光走進冬夜97%",
+    "PARK_BOOT_PHASE WebGL 2 · hidden · true"
+  ],
+  "errors": [],
+  "warnings": [],
+  "frames": [],
+  "build": "./assets/index-DvCP7TDu.js",
+  "backend": "WebGL 2",
+  "motion": 1.3459612309493139,
+  "ok": false,
+  "failure": "The diagnostic timed out during the first PNG capture (122 s job watchdog). Startup and scripted movement returned, but no PNG was produced.",
+  "browserVersion": "27.2",
+  "kind": "first-frame",
+  "softwareRequested": true,
+  "terminatedAtSeconds": 122,
+  "stage": "capture-promenade"
+}

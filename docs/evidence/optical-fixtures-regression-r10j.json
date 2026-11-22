@@ -1,0 +1,99 @@
+{
+  "build": "./assets/index-B8roVKzT.js",
+  "method": "Guard against the specific city-plane regression in the fixed hero views.\n\nThe two ROIs are meant for the unchanged 8:5 pond and garden bookmarks. This\nis not a generic image quality test or a measurement of reflection accuracy.\n",
+  "boxes": {
+    "pond": [
+      0.26,
+      0.65,
+      0.73,
+      0.84
+    ],
+    "garden": [
+      0.75,
+      0.61,
+      0.94,
+      0.74
+    ]
+  },
+  "baseline": true,
+  "ok": false,
+  "results": [
+    {
+      "shot": "pond",
+      "tier": "low",
+      "p10": 16,
+      "p50": 20,
+      "p90": 22,
+      "below40": 0.9996,
+      "sha256": "de6781c715333fc50a60295ab57e56f2e16fecff2e7ef3c1b8908b917c262786",
+      "file": "screenshots/webgl2/low/pond.png",
+      "ok": false
+    },
+    {
+      "shot": "garden",
+      "tier": "low",
+      "p10": 22,
+      "p50": 25,
+      "p90": 33,
+      "below40": 0.919,
+      "sha256": "3502bf057aee76efd613c38bb0f9a5804c93a02e2f4555976e662a9d4b9859e1",
+      "file": "screenshots/webgl2/low/garden.png",
+      "ok": false
+    },
+    {
+      "shot": "pond",
+      "tier": "medium",
+      "p10": 16,
+      "p50": 20,
+      "p90": 23,
+      "below40": 0.9974,
+      "sha256": "f0efeda4df478de753513b6400736b41408ef6dd5507819f36d32cb09beb769f",
+      "file": "screenshots/webgl2/medium/pond.png",
+      "ok": false
+    },
+    {
+      "shot": "garden",
+      "tier": "medium",
+      "p10": 22,
+      "p50": 25,
+      "p90": 29,
+      "below40": 0.976,
+      "sha256": "9b1fc2f56a1ea4b0dea523378fe7988b255b00c81a8d4cd0c294ba3e3a4ea73a",
+      "file": "screenshots/webgl2/medium/garden.png",
+      "ok": false
+    },
+    {
+      "shot": "pond",
+      "tier": "high",
+      "p10": 16,
+      "p50": 20,
+      "p90": 23,
+      "below40": 0.9905,
+      "sha256": "66f0673e56bbc497a3a80d08789319af5788226718439a893cc9bb73cca8ceb8",
+      "file": "screenshots/webgl2/high/pond.png",
+      "ok": false
+    },
+    {
+      "shot": "garden",
+      "tier": "high",
+      "p10": 22,
+      "p50": 25,
+      "p90": 30,
+      "below40": 0.9572,
+      "sha256": "f166083978e852e2e086a3a1431cdaac1dadeae132981cbdec43bedac32cbc05",
+      "file": "screenshots/webgl2/high/garden.png",
+      "ok": false
+    },
+    {
+      "shot": "pond",
+      "tier": "ultra",
+      "p10": 16,
+      "p50": 20,
+      "p90": 23,
+      "below40": 0.9885,
+      "sha256": "e9ee7da651743cc42cb56dbde1ce84205d44e43e905f90f4b1dbfe1e76d20cf0",
+      "file": "screenshots/webgl2/ultra/pond.png",
+      "ok": false
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-19T02:12:23.106Z",
+  "results": [
+    {
+      "id": "dawn-sw",
+      "errors": [
+        "Device was destroyed.",
+        "OperationError: A valid external Instance reference no longer exists."
+      ],
+      "warnings": [],
+      "stages": [
+        "canvas context",
+        "HDR multisample pipeline"
+      ],
+      "info": {
+        "vendor": "google",
+        "architecture": "swiftshader",
+        "fallback": true
+      }
+    },
+    {
+      "id": "vulkan-request",
+      "errors": [],
+      "warnings": [],
+      "stages": [
+        "canvas context",
+        "HDR multisample pipeline",
+        "presented"
+      ],
+      "info": {
+        "vendor": "google",
+        "architecture": "swiftshader",
+        "fallback": true
+      },
+      "ok": true
+    }
+  ]
+}

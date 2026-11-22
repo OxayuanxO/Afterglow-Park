@@ -1,0 +1,368 @@
+{
+  "build": "./assets/index-Cc1rtACW.js",
+  "adapter": null,
+  "presentation": "direct",
+  "pipeline": {
+    "backend": "WebGL 2",
+    "halfFloatScene": true,
+    "outputColorSpace": "srgb",
+    "sceneSamples": 4
+  },
+  "failure": null,
+  "profile": "default-software",
+  "rows": [
+    {
+      "sha256": "bfaf086f7157184e903b8bd16f66c39a149b0f8e36d56d4e8af6acefc2d20d38",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/aerial.png",
+      "shot": "aerial",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:11:29.051Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 98.3,
+        "mean": 81.1,
+        "highlightSamples": 14,
+        "warmSamples": 14,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 824,
+      "triangles": 2891012,
+      "geo": 492,
+      "textures": 128,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "73613c684431ce06ca7a215df58143fb37d93b8c3f0b6a1e68b426138a320087",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/promenade.png",
+      "shot": "promenade",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:11:38.428Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 213.8,
+        "mean": 64.4,
+        "highlightSamples": 70,
+        "warmSamples": 70,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 705,
+      "triangles": 3092268,
+      "geo": 533,
+      "textures": 128,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "82a15d278a34178ea99cb26724ce7b2f61275e65a6e2e5201ff51457b9f1bdce",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/tree.png",
+      "shot": "tree",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:11:45.949Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 177.9,
+        "mean": 66.6,
+        "highlightSamples": 93,
+        "warmSamples": 93,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 529,
+      "triangles": 2465472,
+      "geo": 543,
+      "textures": 128,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "d19fc6f7a79d369eabcd6e23189228da921dd5f1c3e5f3625ddec8efe5771092",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/pond.png",
+      "shot": "pond",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:11:58.795Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 150.1,
+        "mean": 71.8,
+        "highlightSamples": 55,
+        "warmSamples": 55,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1023,
+      "triangles": 4618522,
+      "geo": 642,
+      "textures": 131,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "e00d0e704a53933c8ad8f77547b8716cf4891916429c5fb5fba26d4f498989ff",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/market.png",
+      "shot": "market",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:04.265Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 214.1,
+        "mean": 69.1,
+        "highlightSamples": 42,
+        "warmSamples": 42,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 444,
+      "triangles": 2673568,
+      "geo": 672,
+      "textures": 131,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "6265a498414e4b7c26b304b5bfa6639968a53420b8484b7f94fe27f04be6c6bc",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/rink.png",
+      "shot": "rink",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:11.625Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 217.2,
+        "mean": 71.3,
+        "highlightSamples": 25,
+        "warmSamples": 25,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 537,
+      "triangles": 2441814,
+      "geo": 695,
+      "textures": 133,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "9f0f76f1a18de1f9c4c5a4a89e1a37bbcd398189e3dfa4b3347469e80d4355ed",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/garden.png",
+      "shot": "garden",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:16.131Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 193.5,
+        "mean": 79.4,
+        "highlightSamples": 269,
+        "warmSamples": 269,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 245,
+      "triangles": 1144612,
+      "geo": 729,
+      "textures": 133,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "94aa8484b62886398b3d0064a25f8caa5c70144721e9c11c1748e84ac56f057f",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/lookout.png",
+      "shot": "lookout",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:27.582Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 192.8,
+        "mean": 62.7,
+        "highlightSamples": 113,
+        "warmSamples": 113,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 736,
+      "triangles": 3820864,
+      "geo": 771,
+      "textures": 140,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "8deb5b862fa0e2a2323d393ff43d502dbd791b348059b70b474da06e3bc5e8da",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/cabin.png",
+      "shot": "cabin",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:35.525Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 233.4,
+        "mean": 49.8,
+        "highlightSamples": 29,
+        "warmSamples": 29,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 491,
+      "triangles": 1661356,
+      "geo": 863,
+      "textures": 144,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "18c4e816c346794ff03f3d4a41e7fa2518736d8d56dd8e457200822111381450",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/lantern.png",
+      "shot": "lantern",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:45.325Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 197.5,
+        "mean": 79.4,
+        "highlightSamples": 305,
+        "warmSamples": 305,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 269,
+      "triangles": 2122274,
+      "geo": 890,
+      "textures": 144,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "012590e06b6d0f1c15fc4b8a3f8622ca099cb674b1d8312cc52ace132bb573d2",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/carousel.png",
+      "shot": "carousel",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:12:57.788Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 224.3,
+        "mean": 63.5,
+        "highlightSamples": 43,
+        "warmSamples": 43,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 864,
+      "triangles": 3570818,
+      "geo": 1017,
+      "textures": 144,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    },
+    {
+      "sha256": "07211ea8a0afd17d4249e739fa873c9393b760ad32602e82b4c9aead8ce15e1d",
+      "file": "/tmp/ww-r10/next-r10f/webgl2/medium/canopy.png",
+      "shot": "canopy",
+      "tier": "medium",
+      "stamp": "2026-11-19T04:13:11.336Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 152.3,
+        "mean": 51.3,
+        "highlightSamples": 67,
+        "warmSamples": 67,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 858,
+      "triangles": 5115968,
+      "geo": 1039,
+      "textures": 146,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x140c0036da00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x140c0036da00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

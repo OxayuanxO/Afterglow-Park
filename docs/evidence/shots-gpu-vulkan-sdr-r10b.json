@@ -1,0 +1,13 @@
+{
+  "build": "./assets/index-CT-ByeQD.js",
+  "adapter": {
+    "vendor": "google",
+    "architecture": "swiftshader",
+    "isFallbackAdapter": true
+  },
+  "failure": "Error: Blank/transparent capture low/tree {\"opaque\":0,\"range\":-255,\"mean\":0}",
+  "profile": "vulkan-sw",
+  "rows": [],
+  "errors": [],
+  "warnings": []
+}

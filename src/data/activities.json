@@ -1,0 +1,8 @@
+{
+ "seat":{"reach":2.45,"transition":0.78,"camera":"seat","sound":"cloth","save":false},
+ "stargaze":{"reach":0,"transition":1.10,"camera":"lie","sound":"powder","save":false},
+ "carousel":{"reach":3,"transition":0.88,"camera":"ride","sound":"carousel","save":false},
+ "skate":{"reach":3,"transition":0.4,"camera":"walk","sound":"ice","acceleration":2.3,"save":false},
+ "shake":{"reach":2.7,"transition":0.62,"camera":"walk","sound":"powder","save":false},
+ "campfire":{"reach":2.45,"transition":0.78,"camera":"seat","sound":"fire","save":false}
+}

@@ -1,0 +1,47 @@
+{
+  "when": "2026-11-19T06:43:19.803Z",
+  "build": "./assets/index-DvCP7TDu.js",
+  "stats": {
+    "backend": "WebGL 2",
+    "quality": "low",
+    "scale": 0.75,
+    "dt": 32,
+    "calls": 621,
+    "triangles": 2673325,
+    "geo": 292,
+    "textures": 75,
+    "lightSlots": 6,
+    "resolution": [
+      888,
+      555
+    ]
+  },
+  "thumbs": [
+    {
+      "id": "tree",
+      "width": 800,
+      "height": 500,
+      "url": "http://127.0.0.1:5173/previews/tree.webp"
+    },
+    {
+      "id": "pond",
+      "width": 800,
+      "height": 500,
+      "url": "http://127.0.0.1:5173/previews/pond.webp"
+    },
+    {
+      "id": "market",
+      "width": 800,
+      "height": 500,
+      "url": "http://127.0.0.1:5173/previews/market.webp"
+    },
+    {
+      "id": "carousel",
+      "width": 800,
+      "height": 500,
+      "url": "http://127.0.0.1:5173/previews/carousel.webp"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}

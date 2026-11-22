@@ -1,0 +1,20 @@
+{
+  "engine": "firefox",
+  "stamp": "2026-11-19T06:52:42.460Z",
+  "headless": false,
+  "errors": [],
+  "warnings": [
+    "[JavaScript Warning: \"WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.\" {file: \"debugger eval code line 370 > eval\" line: 3}]",
+    "[JavaScript Warning: \"WebGL context was lost.\" {file: \"debugger eval code line 370 > eval\" line: 5}]"
+  ],
+  "frames": [],
+  "softwareRequested": true,
+  "browserVersion": "159.0",
+  "gl": {
+    "renderer": "llvmpipe, or similar",
+    "halfFloat": true,
+    "version": "WebGL 2.0"
+  },
+  "ok": false,
+  "failure": "TimeoutError: page.waitForFunction: Timeout 95000ms exceeded."
+}

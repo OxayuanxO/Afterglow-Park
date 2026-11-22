@@ -1,0 +1,61 @@
+{
+  "when": "2026-11-19T01:58:48.973Z",
+  "samples": [
+    {
+      "id": "platform",
+      "flags": [],
+      "errors": [],
+      "warnings": [
+        "No available adapters."
+      ],
+      "secure": true,
+      "api": true,
+      "ok": false
+    },
+    {
+      "id": "software-dawn",
+      "flags": [
+        "--enable-unsafe-webgpu",
+        "--use-webgpu-adapter=swiftshader",
+        "--use-angle=swiftshader",
+        "--enable-unsafe-swiftshader"
+      ],
+      "errors": [],
+      "warnings": [],
+      "secure": true,
+      "api": true,
+      "ok": true,
+      "adapter": {
+        "vendor": "google",
+        "architecture": "swiftshader",
+        "device": "",
+        "description": "",
+        "isFallbackAdapter": true
+      },
+      "pixel": "0x1357acbd"
+    },
+    {
+      "id": "software-vulkan",
+      "flags": [
+        "--enable-unsafe-webgpu",
+        "--enable-features=Vulkan",
+        "--use-angle=vulkan",
+        "--disable-vulkan-surface",
+        "--ignore-gpu-blocklist"
+      ],
+      "errors": [],
+      "warnings": [],
+      "secure": true,
+      "api": true,
+      "ok": true,
+      "adapter": {
+        "vendor": "google",
+        "architecture": "swiftshader",
+        "device": "",
+        "description": "",
+        "isFallbackAdapter": true
+      },
+      "pixel": "0x1357acbd"
+    }
+  ]
+}

@@ -1,0 +1,1054 @@
+{
+  "rows": [
+    {
+      "file": "screenshots/webgl2/low/aerial.png",
+      "shot": "aerial",
+      "tier": "low",
+      "stamp": "2026-11-19T00:31:39.518Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 2420,
+      "triangles": 3014481,
+      "geo": 693,
+      "textures": 108,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/promenade.png",
+      "shot": "promenade",
+      "tier": "low",
+      "stamp": "2026-11-19T00:31:48.989Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1847,
+      "triangles": 2821113,
+      "geo": 724,
+      "textures": 108,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/tree.png",
+      "shot": "tree",
+      "tier": "low",
+      "stamp": "2026-11-19T00:31:55.974Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1233,
+      "triangles": 2852937,
+      "geo": 736,
+      "textures": 108,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/pond.png",
+      "shot": "pond",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:07.056Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 2459,
+      "triangles": 5163309,
+      "geo": 839,
+      "textures": 111,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/market.png",
+      "shot": "market",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:10.501Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 645,
+      "triangles": 1117399,
+      "geo": 850,
+      "textures": 111,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/rink.png",
+      "shot": "rink",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:15.635Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1001,
+      "triangles": 3006575,
+      "geo": 854,
+      "textures": 113,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/garden.png",
+      "shot": "garden",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:18.670Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 521,
+      "triangles": 1024639,
+      "geo": 856,
+      "textures": 113,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/lookout.png",
+      "shot": "lookout",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:26.934Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1820,
+      "triangles": 2818785,
+      "geo": 884,
+      "textures": 119,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/cabin.png",
+      "shot": "cabin",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:32.356Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 979,
+      "triangles": 1348965,
+      "geo": 937,
+      "textures": 122,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/lantern.png",
+      "shot": "lantern",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:37.098Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 429,
+      "triangles": 1384565,
+      "geo": 937,
+      "textures": 122,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/carousel.png",
+      "shot": "carousel",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:44.903Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 1145,
+      "triangles": 2264095,
+      "geo": 1032,
+      "textures": 122,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/low/canopy.png",
+      "shot": "canopy",
+      "tier": "low",
+      "stamp": "2026-11-19T00:32:57.544Z",
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 2293,
+      "triangles": 4076557,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        648,
+        405
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/aerial.png",
+      "shot": "aerial",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:08.576Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2442,
+      "triangles": 3220699,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/promenade.png",
+      "shot": "promenade",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:22.547Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1871,
+      "triangles": 3292075,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/tree.png",
+      "shot": "tree",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:32.757Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1252,
+      "triangles": 3435155,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/pond.png",
+      "shot": "pond",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:44.382Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2488,
+      "triangles": 6111371,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/market.png",
+      "shot": "market",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:50.361Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 653,
+      "triangles": 1394265,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/rink.png",
+      "shot": "rink",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:33:59.700Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1019,
+      "triangles": 3951081,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/garden.png",
+      "shot": "garden",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:34:05.011Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 530,
+      "triangles": 1461447,
+      "geo": 1033,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/lookout.png",
+      "shot": "lookout",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:34:21.625Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1880,
+      "triangles": 5269623,
+      "geo": 1036,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/cabin.png",
+      "shot": "cabin",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:34:31.706Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 997,
+      "triangles": 1900269,
+      "geo": 1036,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/lantern.png",
+      "shot": "lantern",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:34:47.358Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 470,
+      "triangles": 4031807,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/carousel.png",
+      "shot": "carousel",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:35:00.128Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1162,
+      "triangles": 2914381,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/medium/canopy.png",
+      "shot": "canopy",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:35:17.157Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2316,
+      "triangles": 4164913,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/aerial.png",
+      "shot": "aerial",
+      "tier": "high",
+      "stamp": "2026-11-19T00:35:29.386Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 2446,
+      "triangles": 3396197,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/promenade.png",
+      "shot": "promenade",
+      "tier": "high",
+      "stamp": "2026-11-19T00:35:45.544Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1885,
+      "triangles": 3942465,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/tree.png",
+      "shot": "tree",
+      "tier": "high",
+      "stamp": "2026-11-19T00:35:57.792Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1261,
+      "triangles": 3725257,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/pond.png",
+      "shot": "pond",
+      "tier": "high",
+      "stamp": "2026-11-19T00:36:11.339Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 2496,
+      "triangles": 6308409,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/market.png",
+      "shot": "market",
+      "tier": "high",
+      "stamp": "2026-11-19T00:36:21.201Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 666,
+      "triangles": 1910827,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/rink.png",
+      "shot": "rink",
+      "tier": "high",
+      "stamp": "2026-11-19T00:36:33.395Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1031,
+      "triangles": 4531999,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/garden.png",
+      "shot": "garden",
+      "tier": "high",
+      "stamp": "2026-11-19T00:36:41.437Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 540,
+      "triangles": 1720333,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/lookout.png",
+      "shot": "lookout",
+      "tier": "high",
+      "stamp": "2026-11-19T00:37:03.709Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1889,
+      "triangles": 5682015,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/cabin.png",
+      "shot": "cabin",
+      "tier": "high",
+      "stamp": "2026-11-19T00:37:16.949Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1013,
+      "triangles": 2566837,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/lantern.png",
+      "shot": "lantern",
+      "tier": "high",
+      "stamp": "2026-11-19T00:37:35.187Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 479,
+      "triangles": 4351917,
+      "geo": 1037,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/carousel.png",
+      "shot": "carousel",
+      "tier": "high",
+      "stamp": "2026-11-19T00:37:58.108Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 1222,
+      "triangles": 6426249,
+      "geo": 1039,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/high/canopy.png",
+      "shot": "canopy",
+      "tier": "high",
+      "stamp": "2026-11-19T00:38:25.362Z",
+      "backend": "WebGL 2",
+      "quality": "high",
+      "scale": 1.15,
+      "dt": 32,
+      "calls": 2373,
+      "triangles": 7445999,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        993,
+        621
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/aerial.png",
+      "shot": "aerial",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:38:41.512Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 2452,
+      "triangles": 3657585,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/promenade.png",
+      "shot": "promenade",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:39:03.600Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1903,
+      "triangles": 4469215,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/tree.png",
+      "shot": "tree",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:39:18.485Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1269,
+      "triangles": 4132123,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/pond.png",
+      "shot": "pond",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:39:35.706Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 2504,
+      "triangles": 6461393,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/market.png",
+      "shot": "market",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:39:51.191Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 730,
+      "triangles": 6026373,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/rink.png",
+      "shot": "rink",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:40:07.802Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1035,
+      "triangles": 4602421,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/garden.png",
+      "shot": "garden",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:40:16.676Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 540,
+      "triangles": 1804419,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/lookout.png",
+      "shot": "lookout",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:40:43.703Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1927,
+      "triangles": 7693365,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/cabin.png",
+      "shot": "cabin",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:40:59.548Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1014,
+      "triangles": 2479227,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/lantern.png",
+      "shot": "lantern",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:41:23.110Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 480,
+      "triangles": 4111029,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/carousel.png",
+      "shot": "carousel",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:41:52.625Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 1228,
+      "triangles": 6502033,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/webgl2/ultra/canopy.png",
+      "shot": "canopy",
+      "tier": "ultra",
+      "stamp": "2026-11-19T00:42:29.959Z",
+      "backend": "WebGL 2",
+      "quality": "ultra",
+      "scale": 1.35,
+      "dt": 32,
+      "calls": 2401,
+      "triangles": 9488749,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        1166,
+        729
+      ]
+    },
+    {
+      "file": "screenshots/tone-webgl-agx.png",
+      "shot": "tree",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:42:39.732Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1252,
+      "triangles": 3462063,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "screenshots/tone-webgl-aces.png",
+      "shot": "tree",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:42:49.453Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1136,
+      "triangles": 2919035,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/tree.webp",
+      "shot": "tree",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:42:59.595Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1136,
+      "triangles": 2919035,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/pond.webp",
+      "shot": "pond",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:43:13.500Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 2488,
+      "triangles": 6111371,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/market.webp",
+      "shot": "market",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:43:19.911Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 653,
+      "triangles": 1394265,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/carousel.webp",
+      "shot": "carousel",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:43:29.321Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1151,
+      "triangles": 2506167,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    },
+    {
+      "file": "public/previews/opening.webp",
+      "shot": "opening",
+      "tier": "medium",
+      "stamp": "2026-11-19T00:43:40.235Z",
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 1431,
+      "triangles": 4451477,
+      "geo": 1041,
+      "textures": 124,
+      "lightSlots": 6,
+      "resolution": [
+        864,
+        540
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x28640036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x28640036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

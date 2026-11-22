@@ -1,0 +1,99 @@
+name: Deploy Afterglow Park to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+      - 'arena/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Unit tests
+        run: npm run test:unit
+
+      - name: Build
+        run: npm run build
+
+      - name: Add .nojekyll
+        run: touch dist/.nojekyll
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  # main 分支走受保護的 github-pages 環境
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  # 工作分支的預覽部署（不綁定環境保護規則）
+  deploy-branch:
+    if: github.ref != 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  # 用 SwiftShader 軟體 WebGL 2 實際開啟建置版，留下截圖供檢查（不阻擋部署）
+  browser-check:
+    needs: build
+    runs-on: ubuntu-latest
+    env:
+      PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '0'
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - run: npm run build
+      - name: Start preview server
+        run: |
+          npx vite preview --host 127.0.0.1 --port 4173 --strictPort &
+          npx --yes wait-on@8 http://127.0.0.1:4173/ -t 60000
+      - name: Open the park
+        run: node scripts/pages-check.mjs
+        env:
+          PARK_URL: http://127.0.0.1:4173/
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: pages-check
+          path: pages-check/

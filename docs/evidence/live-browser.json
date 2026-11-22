@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "build": "./assets/index-DvCP7TDu.js",
+  "steps": [
+    {
+      "test": "actual loop startup",
+      "backend": "WebGL 2",
+      "elapsedMs": 14486
+    },
+    {
+      "test": "intro moved then Escape skipped",
+      "from": [
+        59.93896088804017,
+        95.9195301487111,
+        249.93328747939083
+      ]
+    },
+    {
+      "test": "held W in real-time loop",
+      "startZ": 214,
+      "endZ": 212.71948521956153,
+      "frames": 2,
+      "renderer": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 536,
+        "triangles": 2130361,
+        "geo": 292,
+        "textures": 75,
+        "lightSlots": 6,
+        "resolution": [
+          540,
+          337
+        ]
+      }
+    },
+    {
+      "test": "pointer lock request",
+      "locked": true
+    },
+    {
+      "test": "map/settings shortcuts and first-person UI capture"
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x382c003c2600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x382c003c2600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

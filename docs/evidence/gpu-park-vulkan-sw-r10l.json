@@ -1,0 +1,50 @@
+{
+  "profile": "vulkan-sw",
+  "errors": [],
+  "warnings": [],
+  "backend": "WebGPU",
+  "build": "./assets/index-DvCP7TDu.js",
+  "presentation": "gpu-readback-2d",
+  "adapter": {
+    "vendor": "google",
+    "architecture": "swiftshader",
+    "isFallbackAdapter": true
+  },
+  "canvas": {
+    "opaque": 1000,
+    "range": 136.16,
+    "rgb": [
+      77.935,
+      67.079,
+      69.479
+    ]
+  },
+  "target": {
+    "opaque": 1000,
+    "range": 137.95,
+    "rgb": [
+      78.1,
+      67.17,
+      69.542
+    ]
+  },
+  "stats": {
+    "backend": "WebGPU",
+    "quality": "low",
+    "scale": 0.75,
+    "dt": 32,
+    "calls": 447,
+    "triangles": 1804755,
+    "geo": 299,
+    "textures": 77,
+    "lightSlots": 6,
+    "resolution": [
+      360,
+      225
+    ]
+  },
+  "compositor": {
+    "range": 132
+  },
+  "failure": null
+}
