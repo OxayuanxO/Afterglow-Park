@@ -1,0 +1,110 @@
+{
+  "build": "./assets/index-DvCP7TDu.js",
+  "method": "Guard against the specific city-plane regression in the fixed hero views.\n\nThe two ROIs are meant for the unchanged 8:5 pond and garden bookmarks. This\nis not a generic image quality test or a measurement of reflection accuracy.\n",
+  "boxes": {
+    "pond": [
+      0.26,
+      0.65,
+      0.73,
+      0.84
+    ],
+    "garden": [
+      0.75,
+      0.61,
+      0.94,
+      0.74
+    ]
+  },
+  "baseline": false,
+  "ok": true,
+  "results": [
+    {
+      "shot": "pond",
+      "tier": "low",
+      "p10": 64,
+      "p50": 73,
+      "p90": 88,
+      "below40": 0.0001,
+      "sha256": "1d59489afd1cfc87c186c9824b656828264d6951f0574107f08bcc2e4d0582f0",
+      "file": "screenshots/webgl2/low/pond.png",
+      "ok": true
+    },
+    {
+      "shot": "garden",
+      "tier": "low",
+      "p10": 60,
+      "p50": 133,
+      "p90": 136,
+      "below40": 0.0306,
+      "sha256": "c51a64bf7193789350c9d92f5ff81a478eca7b39aa49aa3e04940730249205b4",
+      "file": "screenshots/webgl2/low/garden.png",
+      "ok": true
+    },
+    {
+      "shot": "pond",
+      "tier": "medium",
+      "p10": 63,
+      "p50": 73,
+      "p90": 88,
+      "below40": 0.0,
+      "sha256": "26131e4e30fae3be5fc25bc7f27a98a3ab8e8b3740c1d28cacf9cd71715008f1",
+      "file": "screenshots/webgl2/medium/pond.png",
+      "ok": true
+    },
+    {
+      "shot": "garden",
+      "tier": "medium",
+      "p10": 59,
+      "p50": 133,
+      "p90": 136,
+      "below40": 0.0332,
+      "sha256": "76bb2fa12782f2c2c3937e83928ca1c9941649b434a2c50123400567b3fc0f28",
+      "file": "screenshots/webgl2/medium/garden.png",
+      "ok": true
+    },
+    {
+      "shot": "pond",
+      "tier": "high",
+      "p10": 63,
+      "p50": 73,
+      "p90": 89,
+      "below40": 0.0,
+      "sha256": "00158ba2fb231a8a2ef7743ecbf0532ab071cbae0f8f822c5f8900c8bdfd39cd",
+      "file": "screenshots/webgl2/high/pond.png",
+      "ok": true
+    },
+    {
+      "shot": "garden",
+      "tier": "high",
+      "p10": 59,
+      "p50": 133,
+      "p90": 136,
+      "below40": 0.0332,
+      "sha256": "5b019b72cacb4f969802ad418de880cd45964d43d4746a8c7cf8925617f77e96",
+      "file": "screenshots/webgl2/high/garden.png",
+      "ok": true
+    },
+    {
+      "shot": "pond",
+      "tier": "ultra",
+      "p10": 63,
+      "p50": 73,
+      "p90": 89,
+      "below40": 0.0,
+      "sha256": "5c0d7988d5c7eb81c6ea69634ddd6583f88b81ff897aeb36e46b47d0797b6deb",
+      "file": "screenshots/webgl2/ultra/pond.png",
+      "ok": true
+    },
+    {
+      "shot": "garden",
+      "tier": "ultra",
+      "p10": 59,
+      "p50": 133,
+      "p90": 136,
+      "below40": 0.0354,
+      "sha256": "33b03245d2943b5ba028c5e7cfd42bc61c4b41ddfe1d0e636bf07b749ec6efeb",
+      "file": "screenshots/webgl2/ultra/garden.png",
+      "ok": true
+    }
+  ]
+}

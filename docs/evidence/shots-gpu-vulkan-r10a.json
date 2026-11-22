@@ -1,0 +1,73 @@
+{
+  "build": "./assets/index-DdwkPIcw.js",
+  "adapter": {
+    "vendor": "google",
+    "architecture": "swiftshader",
+    "isFallbackAdapter": true
+  },
+  "profile": "vulkan-sw",
+  "rows": [
+    {
+      "file": "screenshots/webgpu/low/tree.png",
+      "shot": "tree",
+      "tier": "low",
+      "stamp": "2026-11-19T02:21:05.982Z",
+      "backend": "WebGPU",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 617,
+      "triangles": 2063637,
+      "geo": 369,
+      "textures": 74,
+      "lightSlots": 6,
+      "resolution": [
+        300,
+        187
+      ]
+    },
+    {
+      "file": "screenshots/webgpu/low/rink.png",
+      "shot": "rink",
+      "tier": "low",
+      "stamp": "2026-11-19T02:21:12.556Z",
+      "backend": "WebGPU",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 606,
+      "triangles": 1955225,
+      "geo": 496,
+      "textures": 91,
+      "lightSlots": 6,
+      "resolution": [
+        300,
+        187
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "pixelQA": {
+    "passed": false,
+    "method": "Decoded PNG with Pillow; both frames were fully transparent",
+    "rgbaExtrema": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ]
+  }
+}

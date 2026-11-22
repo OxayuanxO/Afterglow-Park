@@ -1,0 +1,97 @@
+{
+  "base": "http://127.0.0.1:46705/parks/winter/",
+  "archive": {
+    "name": "winter-wonderland-playable.zip",
+    "sha256": "88ac2bd0127c4ec53514cfdd7618e3c692cedaee48c87aea37f3e52cf846f39e",
+    "runtimeSha256": "95b45da8ca30750663d929c297c789650995bf5856334593fd4a3ff093043b55"
+  },
+  "when": "2026-11-19T06:52:16.388Z",
+  "requests": [
+    {
+      "url": "/parks/winter/",
+      "status": 200,
+      "mime": "text/html; charset=utf-8"
+    },
+    {
+      "url": "/parks/winter/assets/index-Dt68brfR.css",
+      "status": 200,
+      "mime": "text/css"
+    },
+    {
+      "url": "/parks/winter/previews/opening.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "url": "/parks/winter/assets/index-DvCP7TDu.js",
+      "status": 200,
+      "mime": "text/javascript"
+    },
+    {
+      "url": "/parks/winter/previews/tree.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "url": "/parks/winter/previews/pond.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "url": "/parks/winter/previews/market.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "url": "/parks/winter/previews/carousel.webp",
+      "status": 200,
+      "mime": "image/webp"
+    },
+    {
+      "url": "/parks/winter/fonts/edition-italic.woff2",
+      "status": 200,
+      "mime": "font/woff2"
+    },
+    {
+      "url": "/parks/winter/fonts/edition-roman.woff2",
+      "status": 200,
+      "mime": "font/woff2"
+    },
+    {
+      "url": "/parks/winter/fonts/park-sans.woff2",
+      "status": 200,
+      "mime": "font/woff2"
+    }
+  ],
+  "foreign": [],
+  "errors": [],
+  "backend": "WebGL 2",
+  "build": "./assets/index-DvCP7TDu.js",
+  "buildSha256": "7e29bfba94a09d3614712ff3299bf981de30d06e57d13c2c2f6ef2eb662d787b",
+  "thumbs": [
+    [
+      "/parks/winter/previews/tree.webp",
+      800
+    ],
+    [
+      "/parks/winter/previews/pond.webp",
+      800
+    ],
+    [
+      "/parks/winter/previews/market.webp",
+      800
+    ],
+    [
+      "/parks/winter/previews/carousel.webp",
+      800
+    ]
+  ],
+  "player": {
+    "x": 0,
+    "z": 212.6540387690507,
+    "y": -0.22725946550085285,
+    "mode": "walk",
+    "walk": 1.3459612309493139
+  },
+  "ok": true
+}

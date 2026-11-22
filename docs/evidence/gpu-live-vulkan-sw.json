@@ -1,0 +1,56 @@
+{
+  "profile": "vulkan-sw",
+  "frames": [
+    {
+      "name": "live-start",
+      "range": 144.52,
+      "sha256": "2b76432d90dadd58101e6b02b110b467c87d622d07db68899ddbe92e9e1943a0",
+      "health": {
+        "completedFrames": 2,
+        "worstGapMs": 6465,
+        "lastSubmissionMs": 18,
+        "pending": true,
+        "contextLost": false,
+        "fenceError": null
+      }
+    },
+    {
+      "name": "live-walk",
+      "range": 144.38,
+      "sha256": "f2a15f046c7c538fe1ba3fc354071fffed28f218c805bcac054d043f6d7858bc",
+      "health": {
+        "completedFrames": 4,
+        "worstGapMs": 10455,
+        "lastSubmissionMs": 13,
+        "pending": true,
+        "contextLost": false,
+        "fenceError": null
+      }
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "backend": "WebGPU",
+  "build": "./assets/index-BsF7OPrx.js",
+  "presentation": "gpu-readback-2d",
+  "adapter": {
+    "vendor": "google",
+    "architecture": "swiftshader",
+    "isFallbackAdapter": true
+  },
+  "pipeline": {
+    "backend": "WebGPU",
+    "halfFloatScene": true,
+    "outputColorSpace": "srgb",
+    "sceneSamples": 4
+  },
+  "player": {
+    "x": 0,
+    "z": 187.82471814778393,
+    "y": -0.24,
+    "mode": "walk",
+    "walk": 26.175281852216074
+  },
+  "ok": true,
+  "failure": null
+}

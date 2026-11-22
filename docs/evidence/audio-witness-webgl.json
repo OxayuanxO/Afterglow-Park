@@ -1,0 +1,53 @@
+{
+  "stamp": "2026-11-19T06:51:49.074Z",
+  "errors": [],
+  "mode": "Post-compressor AudioContext time-domain tap, no speaker/headphone evaluation",
+  "backend": "WebGL 2",
+  "build": "./assets/index-DvCP7TDu.js",
+  "active": {
+    "rms": 0.008381773876758071,
+    "peak": 0.028774963691830635,
+    "samples": 11,
+    "inputClock": 2.2900680272108844,
+    "mix": {
+      "preset": "park",
+      "city": 1,
+      "wind": 1,
+      "music": 1,
+      "water": 0,
+      "wet": 0.16
+    },
+    "notesPlayed": 0
+  },
+  "muted": {
+    "rms": 3.654130520080029e-7,
+    "peak": 0.000006591341843886767,
+    "samples": 10,
+    "inputClock": 2.8908843537414968,
+    "mix": {
+      "preset": "park",
+      "city": 1,
+      "wind": 1,
+      "music": 1,
+      "water": 0,
+      "wet": 0.16
+    },
+    "notesPlayed": 2
+  },
+  "restored": {
+    "rms": 0.010588762888895684,
+    "peak": 0.038837090134620667,
+    "samples": 10,
+    "inputClock": 2.2987755102040817,
+    "mix": {
+      "preset": "park",
+      "city": 1,
+      "wind": 1,
+      "music": 1,
+      "water": 0,
+      "wet": 0.16
+    },
+    "notesPlayed": 6
+  },
+  "ok": true
+}

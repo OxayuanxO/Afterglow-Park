@@ -1,0 +1,17 @@
+{
+  "engine": "webkit",
+  "stamp": "2026-11-19T06:55:54.986Z",
+  "headless": false,
+  "errors": [],
+  "warnings": [],
+  "frames": [],
+  "softwareRequested": true,
+  "browserVersion": "27.2",
+  "gl": {
+    "renderer": "Apple GPU",
+    "halfFloat": true,
+    "version": "WebGL 2.0"
+  },
+  "ok": false,
+  "failure": "TimeoutError: locator.getAttribute: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('body')\n"
+}

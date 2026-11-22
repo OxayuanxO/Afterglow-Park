@@ -1,0 +1,85 @@
+{
+  "build": "./assets/index-DvCP7TDu.js",
+  "backend": "WebGL 2",
+  "checks": {
+    "placed": {
+      "stars": 24,
+      "elfDoors": 12,
+      "villages": 12,
+      "storyPlaques": 12,
+      "secrets": 8,
+      "notes": 63,
+      "uniqueNotes": 40,
+      "uniquePlaques": 30
+    },
+    "stars": {
+      "count": 24,
+      "activated": 24
+    },
+    "doors": {
+      "count": 12,
+      "activated": 12
+    },
+    "stories": {
+      "count": 12,
+      "activated": 12
+    },
+    "secrets": {
+      "count": 8,
+      "activated": 8
+    },
+    "notes": {
+      "count": 40,
+      "activated": 40
+    },
+    "plaques": {
+      "count": 30,
+      "activated": 30
+    }
+  },
+  "result": {
+    "stars": 24,
+    "eve": true,
+    "savedStars": 24,
+    "savedRecords": 127
+  },
+  "clock": {
+    "scheduled": true,
+    "disabled": true,
+    "duration": 60,
+    "lasts": true,
+    "ended": true,
+    "noReplay": true,
+    "resumes": true,
+    "cancels": true,
+    "cues": {
+      "seen": [
+        "bells",
+        "lantern",
+        "bandstand",
+        "pond",
+        "carousel",
+        "bells",
+        "lantern",
+        "bandstand",
+        "carol"
+      ],
+      "cancelled": [
+        "bells",
+        "lantern",
+        "bandstand",
+        "pond",
+        "carousel",
+        "bells",
+        "lantern",
+        "bandstand",
+        "carol"
+      ],
+      "hour": true,
+      "hourDisabled": true
+    }
+  },
+  "misses": [],
+  "errors": [],
+  "warnings": []
+}

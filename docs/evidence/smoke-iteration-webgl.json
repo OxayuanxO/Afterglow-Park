@@ -1,0 +1,273 @@
+{
+  "when": "2026-11-19T00:26:04.722Z",
+  "target": "http://localhost:5173",
+  "logs": [
+    {
+      "name": "啟動與樹海統計",
+      "passed": true,
+      "value": {
+        "backend": "WebGL 2",
+        "n": 3400,
+        "f": 0.633758024691358,
+        "decorated": 720,
+        "firBulbs": 21200,
+        "species": [
+          [
+            "Norway spruce",
+            1292
+          ],
+          [
+            "Caucasian fir",
+            478
+          ],
+          [
+            "Silver fir",
+            355
+          ],
+          [
+            "Scots pine",
+            258
+          ],
+          [
+            "Cedar",
+            219
+          ],
+          [
+            "Juniper",
+            145
+          ],
+          [
+            "Birch",
+            371
+          ],
+          [
+            "Aspen",
+            109
+          ],
+          [
+            "Mountain ash",
+            98
+          ],
+          [
+            "Larch",
+            75
+          ]
+        ]
+      }
+    },
+    {
+      "name": "入口按鈕與音訊解鎖",
+      "passed": true,
+      "value": "running"
+    },
+    {
+      "name": "第一人稱從南門走完林蔭大道",
+      "passed": true,
+      "value": {
+        "start": 214,
+        "end": 10.998114735808592,
+        "meters": 203.0018852641851,
+        "seen": [
+          "gate",
+          "avenue",
+          "plaza"
+        ]
+      }
+    },
+    {
+      "name": "自由視角切換與 Q/E 高度操作",
+      "passed": true,
+      "value": null
+    },
+    {
+      "name": "santa：開門、進屋、熄火、點火、煤油燈、坐下、離開",
+      "passed": true,
+      "value": {
+        "entered": {
+          "x": 131.69077787446204,
+          "y": 0.03,
+          "z": -121.43552972930983
+        },
+        "exit": {
+          "x": 131.32035140844863,
+          "y": -0.19,
+          "z": -118.36347381508313
+        }
+      }
+    },
+    {
+      "name": "log：開門、進屋、熄火、點火、煤油燈、坐下、離開",
+      "passed": true,
+      "value": {
+        "entered": {
+          "x": -161.8541561789931,
+          "y": 0.24,
+          "z": 66.14676354133059
+        },
+        "exit": {
+          "x": -159.12510689508017,
+          "y": 0.02,
+          "z": 67.60519876883795
+        }
+      }
+    },
+    {
+      "name": "ranger：開門、進屋、熄火、點火、煤油燈、坐下、離開",
+      "passed": true,
+      "value": {
+        "entered": {
+          "x": -76.63093262882701,
+          "y": 0.24,
+          "z": -94.80586632734845
+        },
+        "exit": {
+          "x": -77.48606218143347,
+          "y": 0.02,
+          "z": -91.83206459301591
+        }
+      }
+    },
+    {
+      "name": "toys：開門、進屋、熄火、點火、煤油燈、坐下、離開",
+      "passed": true,
+      "value": {
+        "entered": {
+          "x": 111.435587168586,
+          "y": 0.24,
+          "z": -144.60626314260688
+        },
+        "exit": {
+          "x": 111.98955984771288,
+          "y": 0.02,
+          "z": -141.56194752532278
+        }
+      }
+    },
+    {
+      "name": "glass：開門、進屋、熄火、點火、煤油燈、坐下、離開",
+      "passed": true,
+      "value": {
+        "entered": {
+          "x": 62,
+          "y": 0.24,
+          "z": -146.91695410567763
+        },
+        "exit": {
+          "x": 62,
+          "y": 0.02,
+          "z": -143.82264589432262
+        }
+      }
+    },
+    {
+      "name": "安靜角落：shore",
+      "passed": true,
+      "value": [
+        -165.0673312514517,
+        0.272388029712475,
+        127.96301367422635
+      ]
+    },
+    {
+      "name": "安靜角落：gazebo",
+      "passed": true,
+      "value": [
+        120.91129943126586,
+        2.417516864238366,
+        134.74498586488934
+      ]
+    },
+    {
+      "name": "安靜角落：secret",
+      "passed": true,
+      "value": [
+        -54,
+        1.1248133680352996,
+        -158.73
+      ]
+    },
+    {
+      "name": "安靜角落：rest",
+      "passed": true,
+      "value": [
+        -21.941428776388964,
+        1.5629862950742923,
+        98.73642949375034
+      ]
+    },
+    {
+      "name": "安靜角落：lookout",
+      "passed": true,
+      "value": [
+        -143.79797671754582,
+        12.71912674706478,
+        -131.8208726895573
+      ]
+    },
+    {
+      "name": "景物：四種互動、閱讀、手札",
+      "passed": true,
+      "value": [
+        "granfir",
+        "fountain",
+        "deer-0",
+        "stall-0",
+        "story-1",
+        "elf-2",
+        "globe"
+      ]
+    },
+    {
+      "name": "活動：坐上木馬與離開",
+      "passed": true,
+      "value": null
+    },
+    {
+      "name": "活動：溜冰、慣性與離開冰面",
+      "passed": true,
+      "value": {
+        "x": 124.68992756037709,
+        "y": 0.028,
+        "z": 8
+      }
+    },
+    {
+      "name": "活動：躺下看星、搖落樹雪",
+      "passed": true,
+      "value": null
+    },
+    {
+      "name": "上層／下層的樹冠橋面判定",
+      "passed": true,
+      "value": {
+        "top": 9.432877233284318,
+        "bottom": 0.12886067524020334
+      }
+    },
+    {
+      "name": "地圖與設定；雪天切換、獨處及持久化",
+      "passed": true,
+      "value": null
+    },
+    {
+      "name": "照片模式、相機書籤、PNG 下載",
+      "passed": true,
+      "value": "Winter-Wonderland-cabin-1795047964564.png"
+    },
+    {
+      "name": "電影運鏡與立即接手",
+      "passed": true,
+      "value": null
+    },
+    {
+      "name": "沒有瀏覽器 console error",
+      "passed": true,
+      "value": null
+    }
+  ],
+  "warnings": [
+    "[.WebGL-0x19540036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x19540036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ],
+  "errors": []
+}

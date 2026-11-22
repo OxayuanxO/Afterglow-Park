@@ -1,0 +1,41 @@
+{
+  "name": "winter-wonderland-park",
+  "version": "0.10.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "^20.19.0 || >=22.12.0"
+  },
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node scripts/smoke.mjs",
+    "shots": "node scripts/shots.mjs",
+    "soak": "node scripts/soak.mjs",
+    "test:unit": "node --test scripts/*.test.mjs",
+    "docs:poi": "node scripts/poi-doc.mjs",
+    "qa:ui": "node scripts/showcase.mjs",
+    "soak:live": "node scripts/soak-live.mjs",
+    "qa:journey": "node scripts/journey.mjs",
+    "qa:seats": "node scripts/seatviews.mjs",
+    "qa:discovery": "node scripts/discovery-check.mjs",
+    "qa:density": "node scripts/density.mjs",
+    "qa:canopy": "node scripts/nav-focus.mjs",
+    "qa:gpu": "node scripts/gpu-present-probe.mjs",
+    "qa:profile": "node scripts/profile.mjs",
+    "qa:art": "node scripts/art-check.mjs",
+    "qa:gpu:park": "node scripts/gpu-park.mjs",
+    "qa:archive": "node scripts/archive-check.mjs",
+    "plan:decor": "node scripts/world-plan.mjs",
+    "qa:gpu:live": "node scripts/gpu-live.mjs",
+    "qa:dev": "node scripts/dev-smoke.mjs"
+  },
+  "dependencies": {
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "playwright": "1.65.1",
+    "vite": "8.3.8"
+  }
+}

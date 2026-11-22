@@ -1,0 +1,10 @@
+{
+  "build": "./assets/index-DvCP7TDu.js",
+  "method": "Fontconfig cmap coverage for all CJK code points in JS/JSON/CSS. System fallback or shaping not measured.",
+  "file": "public/fonts/park-sans.woff2",
+  "fontSha256": "dcde22f93a54a968ed2b38b8606a2b9059e345517fe80e83812fc0e015d346f3",
+  "codePoints": 825,
+  "matched": 825,
+  "missing": [],
+  "bytes": 299196
+}

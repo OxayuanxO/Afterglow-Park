@@ -1,0 +1,32 @@
+{
+  "engine": "firefox",
+  "stamp": "2026-11-19T07:11:18.151Z",
+  "url": "http://127.0.0.1:5173/?backend=webgl&quality=low&qa=1&skip=1&world=1",
+  "viewport": [
+    384,
+    240
+  ],
+  "kind": "live-lite",
+  "softwareRequested": true,
+  "phases": [
+    "PARK_BOOT_PHASE 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 鋪上第一層雪23%",
+    "PARK_BOOT_PHASE WebGL 2 · 讓雲杉圍住這座公園42%",
+    "PARK_BOOT_PHASE WebGL 2 · 點起長廊與窗邊的燈72%",
+    "PARK_BOOT_PHASE WebGL 2 · 沿著光走進冬夜97%",
+    "PARK_BOOT_PHASE WebGL 2 · hidden · true"
+  ],
+  "errors": [],
+  "warnings": [
+    "[JavaScript Warning: \"WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)\"]"
+  ],
+  "frames": [],
+  "ok": false,
+  "browserVersion": "159.0",
+  "build": "./assets/index-DvCP7TDu.js",
+  "stage": "walk",
+  "backend": "WebGL 2",
+  "failure": "Error: keyboard.up: Target page, context or browser has been closed",
+  "termination": "Aborted in walk stage after sandbox tool responses timed out; no completed native walk or compositor image confirmed."
+}

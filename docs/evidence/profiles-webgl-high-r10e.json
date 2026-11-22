@@ -1,0 +1,2061 @@
+{
+  "build": "./assets/index-BsF7OPrx.js",
+  "backend": "WebGL 2",
+  "tier": "high",
+  "views": {
+    "aerial": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 829,
+        "triangles": 2929020,
+        "geo": 493,
+        "textures": 126,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 829,
+          "triangles": 2929020,
+          "groups": {
+            "RenderPipeline": {
+              "count": 829,
+              "triangles": 2929020
+            }
+          }
+        },
+        "main": {
+          "count": 807,
+          "triangles": 2912596,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:Static warm practicals": {
+              "count": 52,
+              "triangles": 463908
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 101,
+              "triangles": 858464
+            },
+            "batch:snow": {
+              "count": 57,
+              "triangles": 165378
+            },
+            "snow": {
+              "count": 25,
+              "triangles": 74952
+            },
+            "batch:rough-stone": {
+              "count": 47,
+              "triangles": 47616
+            },
+            "batch:wood": {
+              "count": 38,
+              "triangles": 118360
+            },
+            "batch:plank": {
+              "count": 19,
+              "triangles": 5220
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 26,
+              "triangles": 97816
+            },
+            "powder": {
+              "count": 14,
+              "triangles": 10896
+            },
+            "batch:Patinated champagne brass": {
+              "count": 28,
+              "triangles": 75690
+            },
+            "stone": {
+              "count": 15,
+              "triangles": 6780
+            },
+            "batch:fabric": {
+              "count": 38,
+              "triangles": 75804
+            },
+            "batch:plaster": {
+              "count": 13,
+              "triangles": 3848
+            },
+            "tile": {
+              "count": 13,
+              "triangles": 6676
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 25,
+              "triangles": 86288
+            },
+            "batch:Mercury glass": {
+              "count": 11,
+              "triangles": 13888
+            },
+            "Ice – sky fallback": {
+              "count": 1,
+              "triangles": 100
+            },
+            "Pond – sky fallback": {
+              "count": 1,
+              "triangles": 112
+            },
+            "Candle flame": {
+              "count": 2,
+              "triangles": 152
+            },
+            "Patinated champagne brass": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Arbor · shaded bark and fine sprays": {
+              "count": 1,
+              "triangles": 28410
+            },
+            "batch:Arbor · clustered needle cards": {
+              "count": 9,
+              "triangles": 27212
+            },
+            "batch:shingle": {
+              "count": 10,
+              "triangles": 3632
+            },
+            "trees": {
+              "count": 114,
+              "triangles": 481200
+            },
+            "batch:tile": {
+              "count": 8,
+              "triangles": 2688
+            },
+            "batch:": {
+              "count": 4,
+              "triangles": 162
+            },
+            "batch:Grand fir • sequenced champagne bulbs": {
+              "count": 4,
+              "triangles": 169600
+            },
+            "batch:Thin shore ice": {
+              "count": 4,
+              "triangles": 3240
+            },
+            "batch:Sign: ST. NICHOLAS LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: SPRUCE & HEARTH": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:brick": {
+              "count": 10,
+              "triangles": 1000
+            },
+            "batch:Sign: THE RANGER’S REST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE TOYMAKER": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GLASSHOUSE CAFÉ": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD HOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: HOLLY LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: HOT CHOCOLATE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 4.00": {
+              "count": 4,
+              "triangles": 8
+            },
+            "batch:Sign: MULLED WINE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 5.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: ROASTED CHESTNUTS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 3.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: BREAD & BRATWURST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 6.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: CINNAMON BUNS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CANDIED APPLES": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: PINE & BEESWAX": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 7.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOODEN TOYS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 8.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOOL & MITTENS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 9.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BAUBLES & BELLS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WINTER POST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BOATHOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 小心薄冰": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:ice": {
+              "count": 6,
+              "triangles": 2816
+            },
+            "batch:Sign: SKATE HIRE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: STARGAZING": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:stone": {
+              "count": 4,
+              "triangles": 48
+            },
+            "batch:Sign: 聖誕市集": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 戶外溜冰場": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 林間雪地草坪": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 園區步道": {
+              "count": 3,
+              "triangles": 6
+            },
+            "batch:Sign: 鏡雪池塘": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 松間步道": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 冬夜公園 · 導覽圖": {
+              "count": 5,
+              "triangles": 10
+            },
+            "batch:Sign: 守燈人的雪夜": {
+              "count": 9,
+              "triangles": 18
+            },
+            "sett": {
+              "count": 2,
+              "triangles": 2688
+            },
+            "Champagne filament": {
+              "count": 2,
+              "triangles": 48
+            },
+            "Forged iron": {
+              "count": 2,
+              "triangles": 48
+            },
+            "Blackened cast iron": {
+              "count": 2,
+              "triangles": 332
+            },
+            "Heritage burgundy": {
+              "count": 2,
+              "triangles": 48
+            },
+            "Dark wine": {
+              "count": 1,
+              "triangles": 12
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 17,
+              "triangles": 7928
+            },
+            "batch:House glass": {
+              "count": 12,
+              "triangles": 2288
+            },
+            "Amber snowflake gobo · localized projected light": {
+              "count": 3,
+              "triangles": 1944
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        }
+      }
+    },
+    "tree": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 553,
+        "triangles": 2686464,
+        "geo": 509,
+        "textures": 126,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 553,
+          "triangles": 2686464,
+          "groups": {
+            "RenderPipeline": {
+              "count": 553,
+              "triangles": 2686464
+            }
+          }
+        },
+        "main": {
+          "count": 474,
+          "triangles": 2352088,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:Static warm practicals": {
+              "count": 32,
+              "triangles": 341966
+            },
+            "batch:rough-stone": {
+              "count": 23,
+              "triangles": 38844
+            },
+            "snow": {
+              "count": 13,
+              "triangles": 40104
+            },
+            "powder": {
+              "count": 5,
+              "triangles": 3396
+            },
+            "batch:wood": {
+              "count": 18,
+              "triangles": 35008
+            },
+            "batch:fabric": {
+              "count": 20,
+              "triangles": 34768
+            },
+            "batch:snow": {
+              "count": 27,
+              "triangles": 74838
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 50,
+              "triangles": 379304
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 16,
+              "triangles": 51756
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 12,
+              "triangles": 41448
+            },
+            "batch:Patinated champagne brass": {
+              "count": 16,
+              "triangles": 45738
+            },
+            "batch:Mercury glass": {
+              "count": 5,
+              "triangles": 9720
+            },
+            "batch:plaster": {
+              "count": 4,
+              "triangles": 800
+            },
+            "batch:plank": {
+              "count": 6,
+              "triangles": 664
+            },
+            "stone": {
+              "count": 11,
+              "triangles": 4152
+            },
+            "Historic spruce paint": {
+              "count": 4,
+              "triangles": 548
+            },
+            "unnamed": {
+              "count": 6,
+              "triangles": 744
+            },
+            "fabric": {
+              "count": 9,
+              "triangles": 1692
+            },
+            "Forged iron": {
+              "count": 3,
+              "triangles": 72
+            },
+            "Painted ivory": {
+              "count": 3,
+              "triangles": 240
+            },
+            "sett": {
+              "count": 2,
+              "triangles": 2688
+            },
+            "batch:Grand fir • sequenced champagne bulbs": {
+              "count": 4,
+              "triangles": 169600
+            },
+            "batch:shingle": {
+              "count": 6,
+              "triangles": 944
+            },
+            "batch:brick": {
+              "count": 4,
+              "triangles": 120
+            },
+            "batch:Sign: THE RANGER’S REST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:ice": {
+              "count": 3,
+              "triangles": 1376
+            },
+            "batch:Sign: STARGAZING": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:stone": {
+              "count": 4,
+              "triangles": 48
+            },
+            "batch:Sign: 林間雪地草坪": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 園區步道": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: 冬夜公園 · 導覽圖": {
+              "count": 1,
+              "triangles": 2
+            },
+            "trees": {
+              "count": 96,
+              "triangles": 967508
+            },
+            "batch:tile": {
+              "count": 4,
+              "triangles": 1792
+            },
+            "Blackened cast iron": {
+              "count": 8,
+              "triangles": 144
+            },
+            "Dark wine": {
+              "count": 4,
+              "triangles": 96
+            },
+            "wood": {
+              "count": 6,
+              "triangles": 328
+            },
+            "Patinated champagne brass": {
+              "count": 9,
+              "triangles": 716
+            },
+            "Arbor · shaded bark and fine sprays": {
+              "count": 1,
+              "triangles": 28410
+            },
+            "Candle flame": {
+              "count": 2,
+              "triangles": 152
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Heritage burgundy": {
+              "count": 6,
+              "triangles": 328
+            },
+            "tile": {
+              "count": 5,
+              "triangles": 2748
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:House glass": {
+              "count": 6,
+              "triangles": 1520
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 9,
+              "triangles": 2642
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        }
+      }
+    },
+    "pond": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 986,
+        "triangles": 4713856,
+        "geo": 612,
+        "textures": 129,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 986,
+          "triangles": 4713856,
+          "groups": {
+            "RenderPipeline": {
+              "count": 986,
+              "triangles": 4713856
+            }
+          }
+        },
+        "main": {
+          "count": 752,
+          "triangles": 3482242,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:rough-stone": {
+              "count": 40,
+              "triangles": 44464
+            },
+            "batch:snow": {
+              "count": 50,
+              "triangles": 156966
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 90,
+              "triangles": 844704
+            },
+            "batch:wood": {
+              "count": 37,
+              "triangles": 128904
+            },
+            "snow": {
+              "count": 34,
+              "triangles": 66808
+            },
+            "batch:Static warm practicals": {
+              "count": 45,
+              "triangles": 431030
+            },
+            "batch:fabric": {
+              "count": 30,
+              "triangles": 73464
+            },
+            "Patinated champagne brass": {
+              "count": 13,
+              "triangles": 364
+            },
+            "Champagne filament": {
+              "count": 12,
+              "triangles": 480
+            },
+            "wood": {
+              "count": 14,
+              "triangles": 3328
+            },
+            "Honey-lit window": {
+              "count": 12,
+              "triangles": 144
+            },
+            "Aged bronze": {
+              "count": 12,
+              "triangles": 960
+            },
+            "powder": {
+              "count": 12,
+              "triangles": 10176
+            },
+            "batch:Patinated champagne brass": {
+              "count": 27,
+              "triangles": 75790
+            },
+            "batch:plank": {
+              "count": 17,
+              "triangles": 4940
+            },
+            "Pond - planar reflection": {
+              "count": 0,
+              "triangles": 0
+            },
+            "stone": {
+              "count": 13,
+              "triangles": 5296
+            },
+            "batch:plaster": {
+              "count": 8,
+              "triangles": 3096
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 21,
+              "triangles": 83584
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 18,
+              "triangles": 74528
+            },
+            "batch:Mercury glass": {
+              "count": 9,
+              "triangles": 13312
+            },
+            "Arbor · shaded bark and fine sprays": {
+              "count": 1,
+              "triangles": 28410
+            },
+            "trees": {
+              "count": 91,
+              "triangles": 1138850
+            },
+            "batch:Arbor · clustered needle cards": {
+              "count": 8,
+              "triangles": 24284
+            },
+            "batch:": {
+              "count": 4,
+              "triangles": 144
+            },
+            "sett": {
+              "count": 2,
+              "triangles": 2688
+            },
+            "batch:Grand fir • sequenced champagne bulbs": {
+              "count": 4,
+              "triangles": 169600
+            },
+            "batch:Thin shore ice": {
+              "count": 4,
+              "triangles": 3240
+            },
+            "batch:shingle": {
+              "count": 8,
+              "triangles": 3008
+            },
+            "batch:Sign: ST. NICHOLAS LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE TOYMAKER": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GLASSHOUSE CAFÉ": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD HOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:brick": {
+              "count": 9,
+              "triangles": 1012
+            },
+            "batch:Sign: HOLLY LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: HOT CHOCOLATE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 4.00": {
+              "count": 4,
+              "triangles": 8
+            },
+            "batch:Sign: MULLED WINE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 5.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: ROASTED CHESTNUTS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 3.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: BREAD & BRATWURST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 6.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: CINNAMON BUNS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CANDIED APPLES": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: PINE & BEESWAX": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 7.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOODEN TOYS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 8.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOOL & MITTENS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 9.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BAUBLES & BELLS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WINTER POST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:ice": {
+              "count": 6,
+              "triangles": 2816
+            },
+            "batch:Sign: SKATE HIRE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 樹冠步道": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:stone": {
+              "count": 4,
+              "triangles": 48
+            },
+            "batch:Sign: 聖誕市集": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 戶外溜冰場": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 林間雪地草坪": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 園區步道": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: 松間步道": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 冬夜公園 · 導覽圖": {
+              "count": 4,
+              "triangles": 8
+            },
+            "batch:Sign: 守燈人的雪夜": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:tile": {
+              "count": 7,
+              "triangles": 2464
+            },
+            "Candle flame": {
+              "count": 2,
+              "triangles": 152
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "tile": {
+              "count": 11,
+              "triangles": 6304
+            },
+            "Ice – sky fallback": {
+              "count": 1,
+              "triangles": 100
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:House glass": {
+              "count": 8,
+              "triangles": 2000
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 16,
+              "triangles": 7640
+            },
+            "Amber snowflake gobo · localized projected light": {
+              "count": 3,
+              "triangles": 1944
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        },
+        "pond": {
+          "count": 177,
+          "triangles": 762698,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:Grand fir • sequenced champagne bulbs": {
+              "count": 4,
+              "triangles": 169600
+            },
+            "batch:Patinated champagne brass": {
+              "count": 5,
+              "triangles": 13364
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 19,
+              "triangles": 198988
+            },
+            "batch:Static warm practicals": {
+              "count": 8,
+              "triangles": 75300
+            },
+            "batch:snow": {
+              "count": 10,
+              "triangles": 35972
+            },
+            "batch:Thin shore ice": {
+              "count": 4,
+              "triangles": 3240
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 4,
+              "triangles": 19392
+            },
+            "batch:plank": {
+              "count": 6,
+              "triangles": 2860
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 3,
+              "triangles": 17376
+            },
+            "batch:Sign: 守燈人的雪夜": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:brick": {
+              "count": 2,
+              "triangles": 96
+            },
+            "trees": {
+              "count": 2,
+              "triangles": 106040
+            },
+            "Arbor · shaded bark and fine sprays": {
+              "count": 1,
+              "triangles": 28410
+            },
+            "batch:rough-stone": {
+              "count": 6,
+              "triangles": 3880
+            },
+            "batch:fabric": {
+              "count": 4,
+              "triangles": 26640
+            },
+            "batch:wood": {
+              "count": 8,
+              "triangles": 30720
+            },
+            "stone": {
+              "count": 2,
+              "triangles": 2288
+            },
+            "snow": {
+              "count": 16,
+              "triangles": 17024
+            },
+            "Candle flame": {
+              "count": 2,
+              "triangles": 152
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Patinated champagne brass": {
+              "count": 13,
+              "triangles": 364
+            },
+            "powder": {
+              "count": 4,
+              "triangles": 3480
+            },
+            "batch:plaster": {
+              "count": 2,
+              "triangles": 744
+            },
+            "Champagne filament": {
+              "count": 12,
+              "triangles": 480
+            },
+            "wood": {
+              "count": 12,
+              "triangles": 3264
+            },
+            "Honey-lit window": {
+              "count": 12,
+              "triangles": 144
+            },
+            "Aged bronze": {
+              "count": 12,
+              "triangles": 960
+            }
+          }
+        }
+      }
+    },
+    "market": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 488,
+        "triangles": 3053708,
+        "geo": 673,
+        "textures": 129,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 488,
+          "triangles": 3053708,
+          "groups": {
+            "RenderPipeline": {
+              "count": 488,
+              "triangles": 3053708
+            }
+          }
+        },
+        "main": {
+          "count": 388,
+          "triangles": 1839842,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "trees": {
+              "count": 58,
+              "triangles": 1220610
+            },
+            "batch:Arbor · clustered needle cards": {
+              "count": 2,
+              "triangles": 6096
+            },
+            "batch:Static warm practicals": {
+              "count": 17,
+              "triangles": 137880
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 25,
+              "triangles": 219698
+            },
+            "batch:snow": {
+              "count": 13,
+              "triangles": 25736
+            },
+            "batch:wood": {
+              "count": 9,
+              "triangles": 45696
+            },
+            "batch:rough-stone": {
+              "count": 8,
+              "triangles": 2324
+            },
+            "batch:plank": {
+              "count": 4,
+              "triangles": 1200
+            },
+            "batch:shingle": {
+              "count": 2,
+              "triangles": 2352
+            },
+            "batch:Sign: ST. NICHOLAS LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE TOYMAKER": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD HOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: MULLED WINE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:brick": {
+              "count": 2,
+              "triangles": 724
+            },
+            "batch:Sign: ROASTED CHESTNUTS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 4.00": {
+              "count": 3,
+              "triangles": 6
+            },
+            "batch:Sign: GINGERBREAD": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 3.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BREAD & BRATWURST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 6.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CINNAMON BUNS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CANDIED APPLES": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: PINE & BEESWAX": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 8,
+              "triangles": 20576
+            },
+            "batch:fabric": {
+              "count": 10,
+              "triangles": 31776
+            },
+            "batch:stone": {
+              "count": 2,
+              "triangles": 24
+            },
+            "batch:Patinated champagne brass": {
+              "count": 8,
+              "triangles": 15714
+            },
+            "batch:tile": {
+              "count": 2,
+              "triangles": 672
+            },
+            "snow": {
+              "count": 6,
+              "triangles": 15500
+            },
+            "tile": {
+              "count": 5,
+              "triangles": 3680
+            },
+            "Forged iron": {
+              "count": 5,
+              "triangles": 144
+            },
+            "Historic spruce paint": {
+              "count": 21,
+              "triangles": 1852
+            },
+            "Dark wine": {
+              "count": 11,
+              "triangles": 448
+            },
+            "fabric": {
+              "count": 9,
+              "triangles": 1380
+            },
+            "batch:Mercury glass": {
+              "count": 1,
+              "triangles": 712
+            },
+            "wood": {
+              "count": 34,
+              "triangles": 1220
+            },
+            "Blackened cast iron": {
+              "count": 20,
+              "triangles": 656
+            },
+            "Patinated champagne brass": {
+              "count": 30,
+              "triangles": 1384
+            },
+            "Heritage burgundy": {
+              "count": 10,
+              "triangles": 1188
+            },
+            "Champagne gold lacquer": {
+              "count": 3,
+              "triangles": 960
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 1,
+              "triangles": 6360
+            },
+            "Painted ivory": {
+              "count": 18,
+              "triangles": 1504
+            },
+            "unnamed": {
+              "count": 4,
+              "triangles": 496
+            },
+            "batch:plaster": {
+              "count": 4,
+              "triangles": 1240
+            },
+            "powder": {
+              "count": 1,
+              "triangles": 624
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Honey-lit window": {
+              "count": 7,
+              "triangles": 84
+            },
+            "Champagne filament": {
+              "count": 1,
+              "triangles": 56
+            },
+            "Moss and needles": {
+              "count": 1,
+              "triangles": 100
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:House glass": {
+              "count": 2,
+              "triangles": 288
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 1,
+              "triangles": 2448
+            },
+            "Amber snowflake gobo · localized projected light": {
+              "count": 2,
+              "triangles": 1296
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        }
+      }
+    },
+    "rink": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 576,
+        "triangles": 2770816,
+        "geo": 713,
+        "textures": 131,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 576,
+          "triangles": 2770816,
+          "groups": {
+            "RenderPipeline": {
+              "count": 576,
+              "triangles": 2770816
+            }
+          }
+        },
+        "main": {
+          "count": 381,
+          "triangles": 2081214,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:rough-stone": {
+              "count": 14,
+              "triangles": 4132
+            },
+            "batch:Static warm practicals": {
+              "count": 23,
+              "triangles": 212442
+            },
+            "trees": {
+              "count": 74,
+              "triangles": 1259018
+            },
+            "batch:Arbor · clustered needle cards": {
+              "count": 3,
+              "triangles": 9224
+            },
+            "batch:tile": {
+              "count": 7,
+              "triangles": 2688
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 34,
+              "triangles": 294030
+            },
+            "batch:snow": {
+              "count": 19,
+              "triangles": 43384
+            },
+            "batch:wood": {
+              "count": 12,
+              "triangles": 45908
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 5,
+              "triangles": 22840
+            },
+            "batch:plank": {
+              "count": 3,
+              "triangles": 1164
+            },
+            "batch:shingle": {
+              "count": 2,
+              "triangles": 2352
+            },
+            "batch:Sign: ST. NICHOLAS LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE TOYMAKER": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD HOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:brick": {
+              "count": 2,
+              "triangles": 724
+            },
+            "batch:Sign: ROASTED CHESTNUTS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 4.00": {
+              "count": 3,
+              "triangles": 6
+            },
+            "batch:Sign: GINGERBREAD": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 3.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BREAD & BRATWURST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 6.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CINNAMON BUNS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: CANDIED APPLES": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: PINE & BEESWAX": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 7.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOODEN TOYS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 8.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOOL & MITTENS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 9.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:fabric": {
+              "count": 11,
+              "triangles": 24212
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 10,
+              "triangles": 26840
+            },
+            "batch:stone": {
+              "count": 3,
+              "triangles": 36
+            },
+            "batch:Patinated champagne brass": {
+              "count": 10,
+              "triangles": 23146
+            },
+            "batch:Mercury glass": {
+              "count": 7,
+              "triangles": 4744
+            },
+            "batch:ice": {
+              "count": 3,
+              "triangles": 1728
+            },
+            "batch:plaster": {
+              "count": 6,
+              "triangles": 1728
+            },
+            "powder": {
+              "count": 3,
+              "triangles": 1704
+            },
+            "snow": {
+              "count": 6,
+              "triangles": 17424
+            },
+            "fabric": {
+              "count": 9,
+              "triangles": 1524
+            },
+            "Dark wine": {
+              "count": 14,
+              "triangles": 520
+            },
+            "Mercury glass": {
+              "count": 6,
+              "triangles": 72
+            },
+            "Blackened cast iron": {
+              "count": 10,
+              "triangles": 168
+            },
+            "Historic spruce paint": {
+              "count": 6,
+              "triangles": 1032
+            },
+            "Patinated champagne brass": {
+              "count": 12,
+              "triangles": 960
+            },
+            "unnamed": {
+              "count": 6,
+              "triangles": 744
+            },
+            "Painted ivory": {
+              "count": 3,
+              "triangles": 240
+            },
+            "Forged iron": {
+              "count": 9,
+              "triangles": 400
+            },
+            "Ice - etched mirror": {
+              "count": 0,
+              "triangles": 0
+            },
+            "Heritage burgundy": {
+              "count": 6,
+              "triangles": 328
+            },
+            "tile": {
+              "count": 8,
+              "triangles": 4100
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:House glass": {
+              "count": 2,
+              "triangles": 288
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 7,
+              "triangles": 4998
+            },
+            "Amber snowflake gobo · localized projected light": {
+              "count": 2,
+              "triangles": 1296
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        },
+        "ice": {
+          "count": 129,
+          "triangles": 273266,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "batch:Static warm practicals": {
+              "count": 6,
+              "triangles": 94496
+            },
+            "snow": {
+              "count": 3,
+              "triangles": 9680
+            },
+            "powder": {
+              "count": 2,
+              "triangles": 1080
+            },
+            "batch:Patinated champagne brass": {
+              "count": 2,
+              "triangles": 3568
+            },
+            "batch:rough-stone": {
+              "count": 2,
+              "triangles": 1636
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 5,
+              "triangles": 55244
+            },
+            "batch:snow": {
+              "count": 4,
+              "triangles": 9996
+            },
+            "tile": {
+              "count": 1,
+              "triangles": 264
+            },
+            "Mercury glass": {
+              "count": 6,
+              "triangles": 72
+            },
+            "batch:wood": {
+              "count": 3,
+              "triangles": 6268
+            },
+            "Blackened cast iron": {
+              "count": 10,
+              "triangles": 168
+            },
+            "Dark wine": {
+              "count": 14,
+              "triangles": 520
+            },
+            "fabric": {
+              "count": 9,
+              "triangles": 1524
+            },
+            "Heritage burgundy": {
+              "count": 6,
+              "triangles": 328
+            },
+            "Patinated champagne brass": {
+              "count": 12,
+              "triangles": 960
+            },
+            "Historic spruce paint": {
+              "count": 6,
+              "triangles": 1032
+            },
+            "unnamed": {
+              "count": 6,
+              "triangles": 744
+            },
+            "Forged iron": {
+              "count": 9,
+              "triangles": 400
+            },
+            "Painted ivory": {
+              "count": 3,
+              "triangles": 240
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 2,
+              "triangles": 5904
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 2,
+              "triangles": 14080
+            },
+            "batch:fabric": {
+              "count": 2,
+              "triangles": 408
+            },
+            "batch:Mercury glass": {
+              "count": 2,
+              "triangles": 1440
+            },
+            "batch:ice": {
+              "count": 2,
+              "triangles": 1440
+            },
+            "batch:tile": {
+              "count": 1,
+              "triangles": 224
+            },
+            "trees": {
+              "count": 2,
+              "triangles": 57160
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 6,
+              "triangles": 2550
+            }
+          }
+        }
+      }
+    },
+    "canopy": {
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "high",
+        "scale": 1.15,
+        "dt": 32,
+        "calls": 884,
+        "triangles": 5326716,
+        "geo": 755,
+        "textures": 133,
+        "lightSlots": 6,
+        "resolution": [
+          276,
+          172
+        ]
+      },
+      "passes": {
+        "aux:OrthographicCamera:1": {
+          "count": 884,
+          "triangles": 5326716,
+          "groups": {
+            "RenderPipeline": {
+              "count": 884,
+              "triangles": 5326716
+            }
+          }
+        },
+        "main": {
+          "count": 805,
+          "triangles": 4195834,
+          "groups": {
+            "Procedural city sky": {
+              "count": 1,
+              "triangles": 1840
+            },
+            "snow": {
+              "count": 19,
+              "triangles": 63336
+            },
+            "batch:Static paint, iron & wood tint": {
+              "count": 96,
+              "triangles": 852898
+            },
+            "batch:snow": {
+              "count": 55,
+              "triangles": 157802
+            },
+            "batch:rough-stone": {
+              "count": 44,
+              "triangles": 45624
+            },
+            "batch:Static warm practicals": {
+              "count": 54,
+              "triangles": 460566
+            },
+            "powder": {
+              "count": 14,
+              "triangles": 10896
+            },
+            "batch:wood": {
+              "count": 43,
+              "triangles": 136632
+            },
+            "batch:Champagne gold lacquer": {
+              "count": 28,
+              "triangles": 87312
+            },
+            "batch:plank": {
+              "count": 23,
+              "triangles": 5316
+            },
+            "batch:Patinated champagne brass": {
+              "count": 31,
+              "triangles": 79274
+            },
+            "batch:fabric": {
+              "count": 44,
+              "triangles": 78156
+            },
+            "batch:plaster": {
+              "count": 19,
+              "triangles": 6640
+            },
+            "Ice – sky fallback": {
+              "count": 1,
+              "triangles": 100
+            },
+            "tile": {
+              "count": 9,
+              "triangles": 5728
+            },
+            "stone": {
+              "count": 14,
+              "triangles": 5548
+            },
+            "batch:Mulled wine lacquer": {
+              "count": 22,
+              "triangles": 77408
+            },
+            "batch:Mercury glass": {
+              "count": 13,
+              "triangles": 14752
+            },
+            "batch:brick": {
+              "count": 11,
+              "triangles": 1072
+            },
+            "Candle flame": {
+              "count": 2,
+              "triangles": 152
+            },
+            "Patinated champagne brass": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Glowing amber": {
+              "count": 1,
+              "triangles": 76
+            },
+            "Arbor · shaded bark and fine sprays": {
+              "count": 1,
+              "triangles": 28410
+            },
+            "batch:Arbor · clustered needle cards": {
+              "count": 8,
+              "triangles": 24104
+            },
+            "trees": {
+              "count": 122,
+              "triangles": 1790410
+            },
+            "batch:shingle": {
+              "count": 10,
+              "triangles": 3632
+            },
+            "batch:tile": {
+              "count": 7,
+              "triangles": 2464
+            },
+            "batch:": {
+              "count": 6,
+              "triangles": 216
+            },
+            "batch:Grand fir • sequenced champagne bulbs": {
+              "count": 4,
+              "triangles": 169600
+            },
+            "batch:Thin shore ice": {
+              "count": 4,
+              "triangles": 3240
+            },
+            "batch:Sign: ST. NICHOLAS LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: SPRUCE & HEARTH": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE RANGER’S REST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: THE TOYMAKER": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GLASSHOUSE CAFÉ": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: HOLLY LODGE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: HOT CHOCOLATE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 4.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: MULLED WINE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 5.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: ROASTED CHESTNUTS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: GINGERBREAD": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 3.00": {
+              "count": 2,
+              "triangles": 4
+            },
+            "batch:Sign: PINE & BEESWAX": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 7.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOODEN TOYS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 8.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WOOL & MITTENS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 9.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BAUBLES & BELLS": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: € 6.00": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: WINTER POST": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: BOATHOUSE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:ice": {
+              "count": 9,
+              "triangles": 4256
+            },
+            "batch:Sign: SKATE HIRE": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 樹冠步道": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: STARGAZING": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:stone": {
+              "count": 4,
+              "triangles": 48
+            },
+            "batch:Sign: 聖誕市集": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 戶外溜冰場": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 林間雪地草坪": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 園區步道": {
+              "count": 3,
+              "triangles": 6
+            },
+            "batch:Sign: 松間步道": {
+              "count": 1,
+              "triangles": 2
+            },
+            "batch:Sign: 冬夜公園 · 導覽圖": {
+              "count": 4,
+              "triangles": 8
+            },
+            "batch:Sign: 守燈人的雪夜": {
+              "count": 7,
+              "triangles": 14
+            },
+            "sett": {
+              "count": 2,
+              "triangles": 2688
+            },
+            "Pond – sky fallback": {
+              "count": 1,
+              "triangles": 112
+            },
+            "Winter stars": {
+              "count": 1,
+              "triangles": 660
+            },
+            "batch:Tinted ice sculpture": {
+              "count": 17,
+              "triangles": 7928
+            },
+            "batch:House glass": {
+              "count": 12,
+              "triangles": 2288
+            },
+            "Amber snowflake gobo · localized projected light": {
+              "count": 3,
+              "triangles": 1944
+            },
+            "Diffused practical halos": {
+              "count": 1,
+              "triangles": 2248
+            },
+            "Hearth smoke, steam, embers": {
+              "count": 1,
+              "triangles": 290
+            },
+            "GPU drift snow": {
+              "count": 1,
+              "triangles": 60000
+            }
+          }
+        }
+      }
+    }
+  },
+  "drawCallTarget": 1800,
+  "triangleTarget": 9000000,
+  "exceeds": [],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x104003b7e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x104003b7e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

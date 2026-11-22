@@ -1,0 +1,150 @@
+{
+  "backend": "WebGL 2",
+  "results": [
+    {
+      "id": "quiet-shore",
+      "file": "screenshots/quiet/shore.png",
+      "bytes": 383681,
+      "view": [
+        -165.0673312514517,
+        0.2789643362489656,
+        127.96301367422635
+      ],
+      "mode": "seat",
+      "seat": "quiet-shore",
+      "mix": "water",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 2672,
+        "triangles": 5291993,
+        "geo": 764,
+        "textures": 102,
+        "lightSlots": 6,
+        "resolution": [
+          576,
+          360
+        ]
+      }
+    },
+    {
+      "id": "quiet-gazebo",
+      "file": "screenshots/quiet/gazebo.png",
+      "bytes": 371244,
+      "view": [
+        120.8620768203775,
+        2.4350272772851795,
+        134.7678853806353
+      ],
+      "mode": "seat",
+      "seat": "quiet-gazebo",
+      "mix": "gazebo",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 2082,
+        "triangles": 4905823,
+        "geo": 879,
+        "textures": 102,
+        "lightSlots": 6,
+        "resolution": [
+          576,
+          360
+        ]
+      }
+    },
+    {
+      "id": "quiet-secret",
+      "file": "screenshots/quiet/secret.png",
+      "bytes": 411349,
+      "view": [
+        -54,
+        1.1274758220871217,
+        -158.73
+      ],
+      "mode": "seat",
+      "seat": "quiet-secret",
+      "mix": "garden",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 1875,
+        "triangles": 3140257,
+        "geo": 964,
+        "textures": 120,
+        "lightSlots": 6,
+        "resolution": [
+          576,
+          360
+        ]
+      }
+    },
+    {
+      "id": "quiet-rest",
+      "file": "screenshots/quiet/rest.png",
+      "bytes": 365604,
+      "view": [
+        -21.941428776388964,
+        1.5689235941653368,
+        98.73642949375034
+      ],
+      "mode": "seat",
+      "seat": "quiet-rest",
+      "mix": "nook",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 1736,
+        "triangles": 2844945,
+        "geo": 965,
+        "textures": 120,
+        "lightSlots": 6,
+        "resolution": [
+          576,
+          360
+        ]
+      }
+    },
+    {
+      "id": "quiet-lookout",
+      "file": "screenshots/quiet/lookout.png",
+      "bytes": 401245,
+      "view": [
+        -143.80493070273823,
+        12.73691539380971,
+        -131.81332389208632
+      ],
+      "mode": "seat",
+      "seat": "quiet-lookout",
+      "mix": "hill",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 2133,
+        "triangles": 3151817,
+        "geo": 965,
+        "textures": 120,
+        "lightSlots": 6,
+        "resolution": [
+          576,
+          360
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x7340036e600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x7340036e600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

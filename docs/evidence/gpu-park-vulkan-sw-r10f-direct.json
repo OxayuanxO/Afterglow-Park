@@ -1,0 +1,54 @@
+{
+  "profile": "vulkan-sw",
+  "errors": [
+    "THREE.WebGPURenderer: Uncaptured WebGPU GPUValidationError: [Invalid Texture] is invalid due to a previous error.\n - While validating CopyTextureForBrowser from [Invalid Texture] to [Texture (unlabeled 360x225 px, TextureFormat::RGBA8Unorm)]\n"
+  ],
+  "warnings": [
+    "[Invalid Texture] is invalid due to a previous error.\n - While validating CopyTextureForBrowser from [Invalid Texture] to [Texture (unlabeled 360x225 px, TextureFormat::RGBA8Unorm)]\n"
+  ],
+  "backend": "WebGPU",
+  "build": "./assets/index-Cc1rtACW.js",
+  "presentation": "direct",
+  "adapter": {
+    "vendor": "google",
+    "architecture": "swiftshader",
+    "isFallbackAdapter": true
+  },
+  "canvas": {
+    "opaque": 0,
+    "range": 0,
+    "rgb": [
+      0,
+      0,
+      0
+    ]
+  },
+  "target": {
+    "opaque": 1000,
+    "range": 137.95,
+    "rgb": [
+      78.021,
+      67.096,
+      69.488
+    ]
+  },
+  "stats": {
+    "backend": "WebGPU",
+    "quality": "low",
+    "scale": 0.75,
+    "dt": 32,
+    "calls": 448,
+    "triangles": 1782617,
+    "geo": 305,
+    "textures": 76,
+    "lightSlots": 6,
+    "resolution": [
+      360,
+      225
+    ]
+  },
+  "compositor": {
+    "range": 0
+  },
+  "failure": "AssertionError [ERR_ASSERTION]: Visible canvas is blank"
+}

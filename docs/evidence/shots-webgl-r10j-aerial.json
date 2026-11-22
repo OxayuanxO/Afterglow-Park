@@ -1,0 +1,80 @@
+{
+  "build": "./assets/index-B8roVKzT.js",
+  "adapter": null,
+  "presentation": "direct",
+  "pipeline": {
+    "backend": "WebGL 2",
+    "halfFloatScene": true,
+    "outputColorSpace": "srgb",
+    "sceneSamples": 4
+  },
+  "failure": null,
+  "profile": "default-software",
+  "rows": [
+    {
+      "sha256": "3d3d384d707a8cd1d1e14513db3037007ac5821b52c272365e06bc02dda7c378",
+      "file": "/tmp/ww-r10/aerial-r10j/webgl2/low/aerial.png",
+      "shot": "aerial",
+      "tier": "low",
+      "source": "export-target",
+      "stamp": "2026-11-19T04:30:05.087Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 96.5,
+        "mean": 76.6,
+        "highlightSamples": 10,
+        "warmSamples": 10,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 891,
+      "triangles": 3220869,
+      "geo": 494,
+      "textures": 132,
+      "lightSlots": 6,
+      "resolution": [
+        576,
+        360
+      ]
+    },
+    {
+      "sha256": "1447e5d114c8c0baa58bb99443e36f8a70e413b0d75693776ca250fc240fd281",
+      "file": "/tmp/ww-r10/aerial-r10j/webgl2/medium/aerial.png",
+      "shot": "aerial",
+      "tier": "medium",
+      "source": "export-target",
+      "stamp": "2026-11-19T04:30:16.265Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 98.3,
+        "mean": 76.5,
+        "highlightSamples": 13,
+        "warmSamples": 13,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 892,
+      "triangles": 3238670,
+      "geo": 494,
+      "textures": 134,
+      "lightSlots": 6,
+      "resolution": [
+        768,
+        480
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x21540036ec00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x21540036ec00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

@@ -1,0 +1,895 @@
+{
+  "savedAt": "2026-11-19T02:11:48.932Z",
+  "build": "./assets/index-E2vslpcy.js",
+  "seconds": 1800,
+  "viewport": [
+    400,
+    250
+  ],
+  "backend": "WebGL 2",
+  "baseline": {
+    "feet": {
+      "x": 0,
+      "z": 214,
+      "y": -0.2125674296544686,
+      "mode": "walk",
+      "walk": 0
+    },
+    "mode": "walk",
+    "frames": 2,
+    "events": 0.18680000000000108,
+    "audio": "running",
+    "seen": [
+      "gate"
+    ],
+    "room": null,
+    "hidden": false,
+    "resources": {
+      "instances": 112565,
+      "geometries": 361,
+      "textures": 74,
+      "js": 283723256
+    }
+  },
+  "finished": false,
+  "passed": false,
+  "failure": "AssertionError [ERR_ASSERTION]: No new renderer frames in the sampling interval\n    at file:///home/user/winter-wonderland/scripts/soak-live.mjs:141:12",
+  "samples": [
+    {
+      "wallSec": 30.21,
+      "feet": {
+        "x": 0.1279638593776108,
+        "z": 129.51063565568882,
+        "y": -0.24,
+        "mode": "walk",
+        "walk": 84.48990356213694
+      },
+      "mode": "walk",
+      "frames": 4,
+      "events": 30.095599999999475,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 533,
+        "textures": 93,
+        "js": 287766232
+      },
+      "index": 3,
+      "target": "大道",
+      "step": 1769,
+      "checkpoints": 2,
+      "recent": [
+        {
+          "name": "南門",
+          "x": 0,
+          "y": -0.24,
+          "z": 197.36729422468082
+        },
+        {
+          "name": "大道",
+          "x": 0.1984062332337907,
+          "y": -0.24,
+          "z": 150.3766896254077
+        }
+      ],
+      "faults": [],
+      "cabins": [],
+      "activity": [],
+      "cdpHeapUsed": 40038580
+    },
+    {
+      "wallSec": 60.24,
+      "feet": {
+        "x": 0.0001946554803677206,
+        "z": 34.36111623858852,
+        "y": -0.24,
+        "mode": "walk",
+        "walk": 179.63963924437954
+      },
+      "mode": "walk",
+      "frames": 8,
+      "events": 60.04780000000111,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 555,
+        "textures": 93,
+        "js": 288663884
+      },
+      "index": 4,
+      "target": "廣場",
+      "step": 3555,
+      "checkpoints": 3,
+      "recent": [
+        {
+          "name": "南門",
+          "x": 0,
+          "y": -0.24,
+          "z": 197.36729422468082
+        },
+        {
+          "name": "大道",
+          "x": 0.1984062332337907,
+          "y": -0.24,
+          "z": 150.3766896254077
+        },
+        {
+          "name": "大道",
+          "x": 0.0013099254715556975,
+          "y": -0.24,
+          "z": 92.38398448857835
+        }
+      ],
+      "faults": [],
+      "cabins": [],
+      "activity": [],
+      "cdpHeapUsed": 40889916
+    },
+    {
+      "wallSec": 90.25,
+      "feet": {
+        "x": -61.21042253879437,
+        "z": 0.9721868934198767,
+        "y": -1.0812887772730737,
+        "mode": "walk",
+        "walk": 259.42535753263513
+      },
+      "mode": "walk",
+      "frames": 17,
+      "events": 89.8466000000071,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 653,
+        "textures": 102,
+        "js": 291086114
+      },
+      "index": 6,
+      "target": "草坪",
+      "step": 5337,
+      "checkpoints": 5,
+      "recent": [
+        {
+          "name": "大道",
+          "x": 0.0013099254715556975,
+          "y": -0.24,
+          "z": 92.38398448857835
+        },
+        {
+          "name": "廣場",
+          "x": 0.000004998337554517536,
+          "y": -0.24,
+          "z": 20.368762834134102
+        },
+        {
+          "name": "西步道",
+          "x": -38.16833493510588,
+          "y": -0.24176241457105627,
+          "z": 1.1660201275806268
+        }
+      ],
+      "faults": [],
+      "cabins": [],
+      "activity": [],
+      "cdpHeapUsed": 43206772
+    },
+    {
+      "wallSec": 120.27,
+      "feet": {
+        "x": -106.210238557435,
+        "z": -35.64537439176338,
+        "y": -0.15113061721190846,
+        "mode": "walk",
+        "walk": 326.6769104479612
+      },
+      "mode": "walk",
+      "frames": 30,
+      "events": 119.7822000000136,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 785,
+        "textures": 105,
+        "js": 292593052
+      },
+      "index": 7,
+      "target": "草坪",
+      "step": 7122,
+      "checkpoints": 6,
+      "recent": [
+        {
+          "name": "廣場",
+          "x": 0.000004998337554517536,
+          "y": -0.24,
+          "z": 20.368762834134102
+        },
+        {
+          "name": "西步道",
+          "x": -38.16833493510588,
+          "y": -0.24176241457105627,
+          "z": 1.1660201275806268
+        },
+        {
+          "name": "草坪",
+          "x": -74.65551497365173,
+          "y": -0.9692350612990386,
+          "z": 5.835291208969011
+        }
+      ],
+      "faults": [],
+      "cabins": [],
+      "activity": [],
+      "cdpHeapUsed": 44638004
+    },
+    {
+      "wallSec": 150.33,
+      "feet": {
+        "x": -77.60916156240667,
+        "z": -91.77369657241128,
+        "y": 0.02,
+        "mode": "walk",
+        "walk": 391.26731751146286
+      },
+      "mode": "walk",
+      "frames": 47,
+      "events": 149.69110000002024,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 854,
+        "textures": 105,
+        "js": 294614747
+      },
+      "index": 8,
+      "target": "護林人小屋外",
+      "step": 8488,
+      "checkpoints": 7,
+      "recent": [
+        {
+          "name": "西步道",
+          "x": -38.16833493510588,
+          "y": -0.24176241457105627,
+          "z": 1.1660201275806268
+        },
+        {
+          "name": "草坪",
+          "x": -74.65551497365173,
+          "y": -0.9692350612990386,
+          "z": 5.835291208969011
+        },
+        {
+          "name": "草坪",
+          "x": -107.85289106217057,
+          "y": -0.08552841938820491,
+          "z": -39.642072774260704
+        }
+      ],
+      "faults": [],
+      "cabins": [],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 46472496
+    },
+    {
+      "wallSec": 180.31,
+      "feet": {
+        "x": -132.00246937318167,
+        "z": -108.66185747130513,
+        "y": 5.408506573287129,
+        "mode": "walk",
+        "walk": 453.64157226723336
+      },
+      "mode": "walk",
+      "frames": 57,
+      "events": 179.42330000002704,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 917,
+        "textures": 115,
+        "js": 296271754
+      },
+      "index": 11,
+      "target": "觀景台接路",
+      "step": 10172,
+      "checkpoints": 10,
+      "recent": [
+        {
+          "name": "護林人小屋外",
+          "x": -77.58576718908496,
+          "y": 0.02,
+          "z": -91.81402184608528
+        },
+        {
+          "name": "室內：ranger",
+          "x": -76.74651221312607,
+          "y": 0.24,
+          "z": -94.43380451311785
+        },
+        {
+          "name": "離開：ranger",
+          "x": -77.29230453714209,
+          "y": 0.02,
+          "z": -92.50932800029818
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 48055076
+    },
+    {
+      "wallSec": 210.31,
+      "feet": {
+        "x": -114.81306550303215,
+        "z": -129.7327256776306,
+        "y": 4.395416696527576,
+        "mode": "walk",
+        "walk": 520.8238810869443
+      },
+      "mode": "walk",
+      "frames": 66,
+      "events": 209.29210000003383,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 992,
+        "textures": 116,
+        "js": 297754478
+      },
+      "index": 13,
+      "target": "隱密花園",
+      "step": 11947,
+      "checkpoints": 12,
+      "recent": [
+        {
+          "name": "離開：ranger",
+          "x": -77.29230453714209,
+          "y": 0.02,
+          "z": -92.50932800029818
+        },
+        {
+          "name": "觀景台接路",
+          "x": -132.64751662126167,
+          "y": 5.54969996834326,
+          "z": -108.88051532674272
+        },
+        {
+          "name": "觀景台",
+          "x": -143.371347249691,
+          "y": 11.572035937771476,
+          "z": -130.0102965662981
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 49572500
+    },
+    {
+      "wallSec": 240.39,
+      "feet": {
+        "x": -50.83934838597265,
+        "z": -151.46507251317064,
+        "y": -0.026298508400005777,
+        "mode": "walk",
+        "walk": 590.2651783268816
+      },
+      "mode": "walk",
+      "frames": 73,
+      "events": 239.1443000000406,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1039,
+        "textures": 116,
+        "js": 299008350
+      },
+      "index": 14,
+      "target": "古典花園",
+      "step": 13725,
+      "checkpoints": 13,
+      "recent": [
+        {
+          "name": "觀景台接路",
+          "x": -132.64751662126167,
+          "y": 5.54969996834326,
+          "z": -108.88051532674272
+        },
+        {
+          "name": "觀景台",
+          "x": -143.371347249691,
+          "y": 11.572035937771476,
+          "z": -130.0102965662981
+        },
+        {
+          "name": "隱密花園",
+          "x": -56.37627839270984,
+          "y": 0.12838131780496664,
+          "z": -152.98762151213614
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 50668096
+    },
+    {
+      "wallSec": 270.35,
+      "feet": {
+        "x": 13.796698306731825,
+        "z": -136.8269898761709,
+        "y": -0.4799919575050519,
+        "mode": "walk",
+        "walk": 657.1959207749983
+      },
+      "mode": "walk",
+      "frames": 78,
+      "events": 269.06640000004734,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1069,
+        "textures": 117,
+        "js": 299901587
+      },
+      "index": 15,
+      "target": "玻璃花房外",
+      "step": 15491,
+      "checkpoints": 14,
+      "recent": [
+        {
+          "name": "觀景台",
+          "x": -143.371347249691,
+          "y": 11.572035937771476,
+          "z": -130.0102965662981
+        },
+        {
+          "name": "隱密花園",
+          "x": -56.37627839270984,
+          "y": 0.12838131780496664,
+          "z": -152.98762151213614
+        },
+        {
+          "name": "古典花園",
+          "x": 8.623253680874717,
+          "y": -0.5673783848647698,
+          "z": -136.07558486320067
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 51473932
+    },
+    {
+      "wallSec": 300.36,
+      "feet": {
+        "x": 81.58249347049441,
+        "z": -127.77751054609595,
+        "y": -0.3503813853555098,
+        "mode": "walk",
+        "walk": 736.0974996645193
+      },
+      "mode": "walk",
+      "frames": 86,
+      "events": 298.75190000005404,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1155,
+        "textures": 123,
+        "js": 301727291
+      },
+      "index": 18,
+      "target": "聖誕市集",
+      "step": 17161,
+      "checkpoints": 17,
+      "recent": [
+        {
+          "name": "玻璃花房外",
+          "x": 61.63378226140543,
+          "y": 0.02,
+          "z": -144.08444044420582
+        },
+        {
+          "name": "室內：glass",
+          "x": 61.964798097503106,
+          "y": 0.24,
+          "z": -146.53432283157662
+        },
+        {
+          "name": "離開：glass",
+          "x": 61.99613881111293,
+          "y": 0.02,
+          "z": -144.51040740607925
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger",
+        "glass"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 53147160
+    },
+    {
+      "wallSec": 330.39,
+      "feet": {
+        "x": 111.86099508428129,
+        "z": -140.496824752628,
+        "y": 0.020073933031117052,
+        "mode": "walk",
+        "walk": 812.4635465791984
+      },
+      "mode": "walk",
+      "frames": 96,
+      "events": 328.5707000000608,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden",
+        "market"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1241,
+        "textures": 123,
+        "js": 303587958
+      },
+      "index": 19,
+      "target": "木玩具工坊外",
+      "step": 18933,
+      "checkpoints": 18,
+      "recent": [
+        {
+          "name": "室內：glass",
+          "x": 61.964798097503106,
+          "y": 0.24,
+          "z": -146.53432283157662
+        },
+        {
+          "name": "離開：glass",
+          "x": 61.99613881111293,
+          "y": 0.02,
+          "z": -144.51040740607925
+        },
+        {
+          "name": "聖誕市集",
+          "x": 109.82363472665314,
+          "y": 0.13774439839959446,
+          "z": -102.33652415819766
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger",
+        "glass"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 54912700
+    },
+    {
+      "wallSec": 360.44,
+      "feet": {
+        "x": 135.57318732073648,
+        "z": -104.11633448909926,
+        "y": 0.11786623083429382,
+        "mode": "walk",
+        "walk": 869.6336462767755
+      },
+      "mode": "walk",
+      "frames": 104,
+      "events": 358.11950000006743,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden",
+        "market"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1284,
+        "textures": 123,
+        "js": 304441354
+      },
+      "index": 25,
+      "target": "換冰鞋",
+      "step": 20473,
+      "checkpoints": 24,
+      "recent": [
+        {
+          "name": "壁爐小屋外",
+          "x": 130.9834359393337,
+          "y": -0.19,
+          "z": -118.78258799801846
+        },
+        {
+          "name": "室內：santa",
+          "x": 131.60371458419826,
+          "y": 0.03,
+          "z": -121.05052802870586
+        },
+        {
+          "name": "離開：santa",
+          "x": 131.39964436616984,
+          "y": -0.19,
+          "z": -119.0598919111361
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger",
+        "glass",
+        "toys",
+        "santa"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 55708444
+    },
+    {
+      "wallSec": 390.51,
+      "feet": {
+        "x": 140.5951437885825,
+        "z": -37.208594642760815,
+        "y": 0.36446464756001984,
+        "mode": "walk",
+        "walk": 937.3508523631264
+      },
+      "mode": "walk",
+      "frames": 108,
+      "events": 386.92500000007396,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden",
+        "market"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1303,
+        "textures": 125,
+        "js": 306484300
+      },
+      "index": 25,
+      "target": "換冰鞋",
+      "step": 22185,
+      "checkpoints": 24,
+      "recent": [
+        {
+          "name": "壁爐小屋外",
+          "x": 130.9834359393337,
+          "y": -0.19,
+          "z": -118.78258799801846
+        },
+        {
+          "name": "室內：santa",
+          "x": 131.60371458419826,
+          "y": 0.03,
+          "z": -121.05052802870586
+        },
+        {
+          "name": "離開：santa",
+          "x": 131.39964436616984,
+          "y": -0.19,
+          "z": -119.0598919111361
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger",
+        "glass",
+        "toys",
+        "santa"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 57583748
+    },
+    {
+      "wallSec": 459.24,
+      "feet": {
+        "x": 142.8329191458265,
+        "z": -24.020493218985557,
+        "y": -0.12472966581941149,
+        "mode": "walk",
+        "walk": 950.7565586876447
+      },
+      "mode": "walk",
+      "frames": 108,
+      "events": 393.1482000000748,
+      "audio": "running",
+      "seen": [
+        "gate",
+        "avenue",
+        "plaza",
+        "lawn",
+        "hill",
+        "hideaway",
+        "garden",
+        "market",
+        "rink"
+      ],
+      "room": null,
+      "hidden": false,
+      "resources": {
+        "instances": 112565,
+        "geometries": 1303,
+        "textures": 125,
+        "js": 306498040
+      },
+      "index": 25,
+      "target": "換冰鞋",
+      "step": 22380,
+      "checkpoints": 24,
+      "recent": [
+        {
+          "name": "壁爐小屋外",
+          "x": 130.9834359393337,
+          "y": -0.19,
+          "z": -118.78258799801846
+        },
+        {
+          "name": "室內：santa",
+          "x": 131.60371458419826,
+          "y": 0.03,
+          "z": -121.05052802870586
+        },
+        {
+          "name": "離開：santa",
+          "x": 131.39964436616984,
+          "y": -0.19,
+          "z": -119.0598919111361
+        }
+      ],
+      "faults": [],
+      "cabins": [
+        "ranger",
+        "glass",
+        "toys",
+        "santa"
+      ],
+      "activity": [
+        "lie"
+      ],
+      "cdpHeapUsed": 57613064
+    }
+  ],
+  "encounters": null,
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x28f40036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x28f40036e000]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

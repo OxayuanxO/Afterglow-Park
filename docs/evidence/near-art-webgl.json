@@ -1,0 +1,235 @@
+{
+  "frames": [
+    {
+      "id": "cabin-low",
+      "bytes": 302186,
+      "post": {
+        "postAO": false,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 477,
+        "triangles": 1588631,
+        "geo": 420,
+        "textures": 89,
+        "lightSlots": 6,
+        "resolution": [
+          480,
+          300
+        ]
+      }
+    },
+    {
+      "id": "cabin-medium-no-ao",
+      "bytes": 546043,
+      "post": {
+        "postAO": false,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 504,
+        "triangles": 1921885,
+        "geo": 432,
+        "textures": 89,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "cabin-medium-ao",
+      "bytes": 550003,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 478,
+        "triangles": 1653234,
+        "geo": 432,
+        "textures": 91,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "market-goods",
+      "bytes": 444929,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 392,
+        "triangles": 2293014,
+        "geo": 558,
+        "textures": 94,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "market-bakery",
+      "bytes": 452061,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 375,
+        "triangles": 1723666,
+        "geo": 559,
+        "textures": 95,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "bark",
+      "bytes": 492270,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 512,
+        "triangles": 2663590,
+        "geo": 698,
+        "textures": 112,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "gobo",
+      "bytes": 422719,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 532,
+        "triangles": 2526332,
+        "geo": 744,
+        "textures": 134,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "canopy-detail",
+      "bytes": 539694,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 839,
+        "triangles": 4718630,
+        "geo": 784,
+        "textures": 138,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    },
+    {
+      "id": "woodland-detail",
+      "bytes": 451612,
+      "post": {
+        "postAO": true,
+        "postBloom": true,
+        "photoDof": false
+      },
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "medium",
+        "scale": 1,
+        "dt": 32,
+        "calls": 461,
+        "triangles": 2125682,
+        "geo": 818,
+        "textures": 140,
+        "lightSlots": 6,
+        "resolution": [
+          640,
+          400
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x3b8c00378e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x3b8c00378e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x3b8c00378e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x3b8c00378e00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ],
+  "backend": "WebGL 2",
+  "build": "./assets/index-DvCP7TDu.js",
+  "mediumAO": {
+    "changed": 2551,
+    "samples": 2560,
+    "meanAbsoluteDifference": 21.84140625
+  },
+  "failure": null
+}

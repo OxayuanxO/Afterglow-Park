@@ -1,0 +1,140 @@
+{
+  "build": "./assets/index-BMfD5RPt.js",
+  "adapter": null,
+  "presentation": "direct",
+  "pipeline": {
+    "backend": "WebGL 2",
+    "halfFloatScene": true,
+    "outputColorSpace": "srgb",
+    "sceneSamples": 4
+  },
+  "failure": null,
+  "profile": "default-software",
+  "rows": [
+    {
+      "sha256": "b9ce3aaf753ca1f7b688c4bd1471141e177ffc8c3f17b8eef9e54b7220496929",
+      "file": "/tmp/ww-r11/optics/webgl2/low/pond.png",
+      "shot": "pond",
+      "tier": "low",
+      "source": "export-target",
+      "stamp": "2026-11-19T06:00:50.294Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 145,
+        "mean": 71.1,
+        "highlightSamples": 56,
+        "warmSamples": 56,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 869,
+      "triangles": 4172613,
+      "geo": 489,
+      "textures": 123,
+      "lightSlots": 6,
+      "resolution": [
+        552,
+        345
+      ]
+    },
+    {
+      "sha256": "098c1c87f3f1a380692576dae1cc840abbda57d5fccb838ccd48d57e55cbbb43",
+      "file": "/tmp/ww-r11/optics/webgl2/low/garden.png",
+      "shot": "garden",
+      "tier": "low",
+      "source": "export-target",
+      "stamp": "2026-11-19T06:00:53.515Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 195.6,
+        "mean": 80.6,
+        "highlightSamples": 268,
+        "warmSamples": 268,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "low",
+      "scale": 0.75,
+      "dt": 32,
+      "calls": 212,
+      "triangles": 948145,
+      "geo": 497,
+      "textures": 123,
+      "lightSlots": 6,
+      "resolution": [
+        552,
+        345
+      ]
+    },
+    {
+      "sha256": "d187e46a68579288edccacba4eec05b76077abf3c2903e54f0788821a2accd2c",
+      "file": "/tmp/ww-r11/optics/webgl2/medium/pond.png",
+      "shot": "pond",
+      "tier": "medium",
+      "source": "export-target",
+      "stamp": "2026-11-19T06:01:02.885Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 162,
+        "mean": 70.9,
+        "highlightSamples": 58,
+        "warmSamples": 58,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 894,
+      "triangles": 4634822,
+      "geo": 504,
+      "textures": 125,
+      "lightSlots": 6,
+      "resolution": [
+        736,
+        460
+      ]
+    },
+    {
+      "sha256": "2db6a498298a0fed8b53ea553f57010c4f42fc446f854bc38c1f5d4366ddf3e0",
+      "file": "/tmp/ww-r11/optics/webgl2/medium/garden.png",
+      "shot": "garden",
+      "tier": "medium",
+      "source": "export-target",
+      "stamp": "2026-11-19T06:01:07.365Z",
+      "pixels": {
+        "opaque": 1000,
+        "range": 193.7,
+        "mean": 79.4,
+        "highlightSamples": 278,
+        "warmSamples": 278,
+        "coolSamples": 0,
+        "nearWhite": 0
+      },
+      "backend": "WebGL 2",
+      "quality": "medium",
+      "scale": 1,
+      "dt": 32,
+      "calls": 256,
+      "triangles": 1310080,
+      "geo": 529,
+      "textures": 125,
+      "lightSlots": 6,
+      "resolution": [
+        736,
+        460
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "[.WebGL-0x386c003c5600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now.",
+    "[.WebGL-0x386c003c5600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): Running out of reserved outsideRenderPass queueSerial. ending renderPass now. (this message will no longer repeat)"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "engine": "firefox",
+  "stamp": "2026-11-19T07:06:49.826Z",
+  "url": "http://127.0.0.1:5173/?backend=webgl&quality=low&qa=1&still=1&skip=1",
+  "viewport": [
+    384,
+    240
+  ],
+  "mode": "one startup frame; no preliminary WebGL context and no background render loop",
+  "phases": [
+    "PARK_BOOT_PHASE 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 準備渲染器4%",
+    "PARK_BOOT_PHASE WebGL 2 · 鋪上第一層雪23%",
+    "PARK_BOOT_PHASE WebGL 2 · 讓雲杉圍住這座公園42%",
+    "PARK_BOOT_PHASE WebGL 2 · 點起長廊與窗邊的燈72%",
+    "PARK_BOOT_PHASE WebGL 2 · 沿著光走進冬夜97%",
+    "PARK_BOOT_PHASE WebGL 2 · hidden · true"
+  ],
+  "errors": [],
+  "warnings": [
+    "[JavaScript Warning: \"WebGL warning: drawElementsInstanced: Depth texture comparison requests (e.g. `LINEAR`) Filtering, but behavior is implementation-defined, and so on some systems will sometimes behave as `NEAREST`. (warns once)\"]"
+  ],
+  "frames": [
+    {
+      "id": "promenade",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 691,
+        "triangles": 2977177,
+        "geo": 448,
+        "textures": 117,
+        "lightSlots": 6,
+        "resolution": [
+          288,
+          180
+        ]
+      },
+      "range": 215.76299999999998,
+      "alpha": 1000,
+      "sha256": "87ebd735f7087ca4709dc4163d6f6f441d0c85bb0810739641530b7eed7b743c",
+      "file": "screenshots/render-check/compat-firefox-promenade.png",
+      "source": "canvas"
+    },
+    {
+      "id": "cabin",
+      "stats": {
+        "backend": "WebGL 2",
+        "quality": "low",
+        "scale": 0.75,
+        "dt": 32,
+        "calls": 477,
+        "triangles": 1588631,
+        "geo": 547,
+        "textures": 118,
+        "lightSlots": 6,
+        "resolution": [
+          288,
+          180
+        ]
+      },
+      "range": 230.62099999999998,
+      "alpha": 1000,
+      "sha256": "e427904d0ba4d7ee34b6a9b2fb315a886609dde26f702005f15094441c5bb47a",
+      "file": "screenshots/render-check/compat-firefox-cabin.png",
+      "source": "canvas"
+    }
+  ],
+  "build": "./assets/index-DvCP7TDu.js",
+  "backend": "WebGL 2",
+  "motion": 1.3459612309493139,
+  "ok": true,
+  "browserVersion": "159.0",
+  "kind": "first-frame",
+  "softwareRequested": true,
+  "stage": "finished"
+}
